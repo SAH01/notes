@@ -97,9 +97,9 @@
 </beans>
 ```
 
-![image-20211030151702229](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211030151702229.png)
+![image-20211030151702229](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211030151702229.png)
 
-![image-20211030152209608](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211030152209608.png)
+![image-20211030152209608](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211030152209608.png)
 
 #### 2.3、import
 
@@ -248,7 +248,7 @@ public class Student {
 
 ***xml配置文件***
 
-![image-20211030162549542](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211030162549542.png)
+![image-20211030162549542](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211030162549542.png)
 
 ```java
 <?xml version="1.0" encoding="UTF-8"?>
@@ -400,7 +400,7 @@ public class User {
 
 
 
-![image-20211030172758011](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211030172758011.png)
+![image-20211030172758011](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211030172758011.png)
 
 ***注意***
 
@@ -411,7 +411,7 @@ xmlns:c="http://www.springframework.org/schema/c"
 
 ### 4、bean的作用域
 
-![image-20211030195924980](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211030195924980.png)
+![image-20211030195924980](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211030195924980.png)
 
 #### 4.1、单例模式（default）
 
@@ -546,7 +546,7 @@ byName：类属性的名字和bean的id名字保持一致，且id全局唯一
 
 在Spring4之后，要使用注解开发必须要导入AOP包
 
-![image-20211031143230769](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211031143230769.png)
+![image-20211031143230769](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211031143230769.png)
 
 **导入context约束，加入注解支持**
 

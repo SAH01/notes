@@ -97,4 +97,4 @@ scp [参数] [原路径] [目标路径]
 - -r：若给出的源文件是一个目录文件，此时将复制该目录下所有的子目录和文件。
 - -l：不复制文件，只是生成链接文件。
 
-![image-20220301232129133](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220301232129133.png)
+![image-20220301232129133](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220301232129133.png)

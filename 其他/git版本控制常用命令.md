@@ -2,7 +2,7 @@
 
 ## 1、配置身份信息
 
-![image-20220426195122605](git版本控制常用命令/image-20220426195122605.png)
+![image-20220426195122605](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220426195122605.png)
 
 ```bash
 git config --global user.name "kuangshen"  #名称
@@ -26,7 +26,7 @@ git status
 
 ## 3、设置公钥
 
-![image-20220426195356327](git版本控制常用命令/image-20220426195356327.png)
+![image-20220426195356327](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220426195356327.png)
 
 ```bash
 # 进入 C:\Users\Administrator\.ssh 目录# 生成公钥ssh-keygen

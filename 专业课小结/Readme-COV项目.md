@@ -1,4 +1,4 @@
-![image-20220325125108542](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125108542.png)
+![image-20220325125108542](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125108542.png)
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-![image-20220325125328514](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125328514.png)
+![image-20220325125328514](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125328514.png)
 
 
 
@@ -14,17 +14,17 @@
 
 
 
-![image-20220325125438208](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125438208.png)
+![image-20220325125438208](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125438208.png)
 
-![image-20220325125448679](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125448679.png)
+![image-20220325125448679](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125448679.png)
 
-![image-20220325125500930](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125500930.png)
+![image-20220325125500930](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125500930.png)
 
-![image-20220325125515031](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125515031.png)
+![image-20220325125515031](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125515031.png)
 
-![image-20220325125533840](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125533840.png)
+![image-20220325125533840](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125533840.png)
 
-![image-20220325125554481](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125554481.png)
+![image-20220325125554481](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125554481.png)
 
 
 
@@ -32,13 +32,13 @@
 
 单击**左上角按钮**可以切换中国和世界展示界面！
 
-![image-20220325125639669](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125639669.png)
+![image-20220325125639669](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125639669.png)
 
-![image-20220325125654250](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125654250.png)
+![image-20220325125654250](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125654250.png)
 
-![image-20220325125706991](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125706991.png)
+![image-20220325125706991](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125706991.png)
 
-![image-20220325125738593](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325125738593.png)
+![image-20220325125738593](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325125738593.png)
 
 
 
@@ -60,11 +60,11 @@
 1. sql下是后台数据库备份文件
 2. 下面四个文件是静态资源
 
-![image-20220325130529748](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325130529748.png)
+![image-20220325130529748](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325130529748.png)
 
 ---
 
-![image-20220325130620815](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220325130620815.png)
+![image-20220325130620815](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220325130620815.png)
 
 3. china对应中国疫情板块、world对应世界疫情板块。
 4. 下面的app.py是flask框架的主要实现部分。

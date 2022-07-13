@@ -1,10 +1,10 @@
 # 整合SSM
 
-![image-20211128165153948](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128165153948.png)
+![image-20211128165153948](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128165153948.png)
 
-![image-20211128165202990](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128165202990.png)
+![image-20211128165202990](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128165202990.png)
 
-![image-20211128165216713](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128165216713.png)
+![image-20211128165216713](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128165216713.png)
 
 
 
@@ -14,11 +14,11 @@
 
 ## 01 基本配置文件的关系
 
-![image-20211128165552011](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128165552011.png)
+![image-20211128165552011](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128165552011.png)
 
 web.xml配置**DispatcherServlet**
 
-![image-20211128165659202](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128165659202.png)
+![image-20211128165659202](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128165659202.png)
 
 
 
@@ -360,7 +360,7 @@ public class UserMapperImpl2 extends SqlSessionDaoSupport implements UserMapper 
 
 ## 二、整合springmvc
 
-![image-20211128172749725](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128172749725.png)
+![image-20211128172749725](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128172749725.png)
 
 ### 01 springmvc主要管理的是controller层和service层
 

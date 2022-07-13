@@ -28,13 +28,13 @@
 
 **ps：判断用户类型的依据：**
 
-![image-20220329173702314](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329173702314.png)
+![image-20220329173702314](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329173702314.png)
 
 
 
 ---
 
-![image-20220329174146845](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329174146845.png)
+![image-20220329174146845](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329174146845.png)
 
 ```sql
 /*
@@ -91,7 +91,7 @@ insert  into `elec_0`(`userid`,`money_sum`,`times`,`money_aver`,`std_money`,`std
 
 **用户类型分析数据**
 
-![image-20220329174220181](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329174220181.png)
+![image-20220329174220181](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329174220181.png)
 
 ```sql
 /*
@@ -461,7 +461,7 @@ if __name__ == '__main__':
 
 #### 最终实现效果：
 
-![image-20220329172811357](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329172811357.png)
+![image-20220329172811357](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329172811357.png)
 
 ---
 
@@ -481,7 +481,7 @@ INSERT INTO user_top5 SELECT *,(times-std_times)*money_aver AS std_top5 FROM ele
 
 **数据来源：用每个用户自己的缴费次数 减去 全部用户的平均缴费次数 然后乘以该用户自己的平均缴费金额 最后取前五名**
 
-![image-20220329172323230](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329172323230.png)
+![image-20220329172323230](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329172323230.png)
 
 ```sql
 /*
@@ -756,9 +756,9 @@ insert  into `user_top5`(`userid`,`money_sum`,`times`,`money_aver`,`std_money`,`
 
 ### 最终实现效果：
 
-![image-20220329173928747](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329173928747.png)
+![image-20220329173928747](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329173928747.png)
 
 
 
-![image-20220329173941131](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220329173941131.png)
+![image-20220329173941131](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220329173941131.png)
 

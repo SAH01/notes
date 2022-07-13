@@ -15,7 +15,7 @@
 
 
 
-![image-20211124110431535](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211124110431535.png)
+![image-20211124110431535](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211124110431535.png)
 
 ## pom.xml添加依赖
 

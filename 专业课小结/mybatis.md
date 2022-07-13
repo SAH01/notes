@@ -174,7 +174,7 @@ public class User {
 
 ### 目录结构
 
-![image-20211122101200663](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211122101200663.png)
+![image-20211122101200663](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211122101200663.png)
 
 
 

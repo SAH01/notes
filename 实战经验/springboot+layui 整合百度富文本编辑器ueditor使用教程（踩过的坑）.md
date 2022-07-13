@@ -10,7 +10,7 @@
 
 效果如图：
 
-![image-20220610225823107](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610225823107.png)
+![image-20220610225823107](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610225823107.png)
 
 
 
@@ -18,7 +18,7 @@
 
 官方网址：http://fex.baidu.com/ueditor/#start-start（下载jsp版本就可以）
 
-![image-20220610225522810](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610225522810.png)
+![image-20220610225522810](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610225522810.png)
 
 
 
@@ -26,7 +26,7 @@
 
 你会看到这样的界面：
 
-![image-20220610225644441](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610225644441.png)
+![image-20220610225644441](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610225644441.png)
 
 > ​    dialogs：弹出对话框对应的资源和JS文件
 > ​    lang：编辑器国际化显示的文件
@@ -44,7 +44,7 @@
 
 #### 第一步、把解压后的文件夹整个放到springboot项目中的static目录下
 
-![image-20220610230132081](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610230132081.png)
+![image-20220610230132081](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610230132081.png)
 
 #### 第二步、放入示例代码
 
@@ -127,7 +127,7 @@ testLayui_Ueditor.html
 
 **但是注意，这里引入js文件的路径为完整的路径**
 
-![image-20220610230637832](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610230637832.png)
+![image-20220610230637832](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610230637832.png)
 
  
 
@@ -200,13 +200,13 @@ testLayui_Ueditor.html
 
 首先 当我们**静态加载**这个插件的时候，会发现路径大概是这个样子的：也就是我们可以看到localhost开始一直后面跟的是项目的完整路径！
 
-![image-20220610232118981](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232118981.png)
+![image-20220610232118981](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232118981.png)
 
 那么这个插件我们只引入了两个js文件，那其他的文件是怎么运行的呢？
 
 我们可以打开其中的 ==config.js== 文件一探究竟！
 
-![image-20220610232337722](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232337722.png)
+![image-20220610232337722](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232337722.png)
 
 所以我们不难发现，这个插件大概是这么运行的：
 
@@ -217,11 +217,11 @@ testLayui_Ueditor.html
 
 下面我们打开==jsp==文件夹看看：
 
-![image-20220610232552939](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232552939.png)
+![image-20220610232552939](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232552939.png)
 
-![image-20220610232601868](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232601868.png)
+![image-20220610232601868](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232601868.png)
 
-![image-20220610232648671](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232648671.png)
+![image-20220610232648671](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232648671.png)
 
 
 
@@ -231,7 +231,7 @@ testLayui_Ueditor.html
 
 ==F12==打开调试可以看到
 
-![image-20220610232829819](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610232829819.png)
+![image-20220610232829819](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610232829819.png)
 
 所以我们大致可以确定，其他文件需要通过这个jsp文件完成调度。
 
@@ -257,7 +257,7 @@ testLayui_Ueditor.html
 
 ​	http://169.254.208.81:8008/UEditor/jsp/controller.jsp?action=config&&noCache=1654875217963
 
-![image-20220610233315121](springboot+layui 整合百度富文本编辑器ueditor使用教程（踩过的坑）/image-20220610233315121.png)
+![image-20220610233315121](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220610233315121.png)
 
 
 

@@ -90,7 +90,7 @@
 
 4. 浮点数之间的等值判断，基本数据类型不能用==来比较，包装数据类型不能用 equals来判断。
 
-    ![image-20220421155130459](阿里巴巴Java开发手册1.7.0（嵩山版）/image-20220421155130459.png)
+    ![image-20220421155130459](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220421155130459.png)
 
     5. 如上所示 ==BigDecimal 的等值比较应使用 compareTo()方法，而不是 equals()方法。==
 
@@ -292,13 +292,13 @@
 
 1. ==【强制】当 switch 括号内的变量类型为 String 并且此变量为外部参数时，必须先进行 null判断。==switch语句必须包含default。
 
-    ![image-20220421171906221](阿里巴巴Java开发手册1.7.0（嵩山版）/image-20220421171906221.png)
+    ![image-20220421171906221](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220421171906221.png)
 
     2. 三目运算符 condition? 表达式 1 : 表达式 2 中，高度注意表达式 1 和 2 在类型对齐时，
 
         可能抛出因自动拆箱导致的 NPE 异常。
 
-        ![image-20220421172251853](阿里巴巴Java开发手册1.7.0（嵩山版）/image-20220421172251853.png)
+        ![image-20220421172251853](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220421172251853.png)
 
 ### （八）注释规约
 

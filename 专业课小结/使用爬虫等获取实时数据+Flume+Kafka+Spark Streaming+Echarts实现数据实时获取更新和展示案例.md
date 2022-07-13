@@ -8,7 +8,7 @@
 
 之后**使用Spark Streaming 实时处理Kafka通道中的数据**，并写入本地mysql数据库中，之后**读取mysql数据库中的数据并基于Echart图表对数据进行实时动态展示。**
 
-![image-20220318161438182](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220318161438182.png)
+![image-20220318161438182](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220318161438182.png)
 
 
 
@@ -516,7 +516,7 @@ def dynamic_bar():
 
 小结：整个流程的关键在于对实时数据的监控和展示，首先要保证**数据传输的动态性**，其次要**保证Flume实时监控数据的变化**。其中使用Kafka的目的在于当数据量足够大的时候，往往会出现数据的监控和采集速度跟不上数据的变化，所以采用Kafka消息队列机制，让其缓冲数据以实现大数据量的处理，后续需要编写Spark Streaming代码完成对消息的收集处理（存入本地mysql数据库），最后读取数据库数据并用折线图完成动态展示效果，数据库的数据是实时变动的，这就需要**在读取的时候要读到最新进来的数据**，这样才能看到图线的动态效果。（下图的图线会随着数据的变化动态改变！）
 
-![image-20220318200827044](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220318200827044.png)
+![image-20220318200827044](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220318200827044.png)
 
 ​	
 

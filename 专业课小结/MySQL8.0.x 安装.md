@@ -6,7 +6,7 @@ MySQL官网下载链接：https://downloads.mysql.com/archives/community/
 
 选择版本后下载zip文件
 
-![image-20220408194432886](MySQL8.0.x 安装/image-20220408194432886.png)
+![image-20220408194432886](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408194432886.png)
 
 博主选择的是8.0.13
 
@@ -18,21 +18,21 @@ MySQL官网下载链接：https://downloads.mysql.com/archives/community/
 
 解压完成后得到这个界面：
 
-![image-20220408194638608](MySQL8.0.x 安装/image-20220408194638608.png)
+![image-20220408194638608](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408194638608.png)
 
 ### 2 配置环境变量
 
 #### 右击此电脑选择属性
 
-![image-20220408194811149](MySQL8.0.x 安装/image-20220408194811149.png)
+![image-20220408194811149](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408194811149.png)
 
 
 
-![image-20220408194826022](MySQL8.0.x 安装/image-20220408194826022.png)
+![image-20220408194826022](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408194826022.png)
 
 #### 双击系统环境变量的Path
 
-![image-20220408194901568](MySQL8.0.x 安装/image-20220408194901568.png)
+![image-20220408194901568](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408194901568.png)
 
 
 
@@ -46,7 +46,7 @@ MySQL官网下载链接：https://downloads.mysql.com/archives/community/
 
 ### 3 配置my.ini
 
-![image-20220408195151023](MySQL8.0.x 安装/image-20220408195151023.png)
+![image-20220408195151023](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408195151023.png)
 
 在D:\Program Files (x86)\mysql-8.0.13-winx64\mysql-8.0.13-winx64路径下新建一个 **my.ini** 文件。
 
@@ -115,13 +115,13 @@ default-character-set=utf8
 
 #### WIN+R 输入cmd 进入window命令行
 
-![image-20220408195429947](MySQL8.0.x 安装/image-20220408195429947.png)
+![image-20220408195429947](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408195429947.png)
 
 
 
 #### cd 进入安装mysql的bin目录下
 
-![image-20220408195540269](MySQL8.0.x 安装/image-20220408195540269.png)
+![image-20220408195540269](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408195540269.png)
 
 输入：==mysqld --initialize --console==
 
@@ -153,7 +153,7 @@ default-character-set=utf8
 
 
 
-![image-20220408200303037](MySQL8.0.x 安装/image-20220408200303037.png)
+![image-20220408200303037](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220408200303037.png)
 
 
 

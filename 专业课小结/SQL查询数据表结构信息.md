@@ -9,7 +9,7 @@ FROM
 WHERE TABLE_SCHEMA = 'file_insert' ;
 ```
 
-![image-20211122151631890](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211122151631890.png)
+![image-20211122151631890](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211122151631890.png)
 
 ---
 
@@ -29,7 +29,7 @@ WHERE table_name = 'admin'
 
 ```
 
-![image-20211122151716432](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211122151716432.png)
+![image-20211122151716432](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211122151716432.png)
 
 
 

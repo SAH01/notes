@@ -14,11 +14,11 @@
 
 3. 创建完毕之后，你可以看到下面这样的界面：
 
-    ![image-20220704003523933](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220704003523933.png)
+    ![image-20220704003523933](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220704003523933.png)
 
     单击空间名称可以进入到空间详情页面，这里面记录了存储空间的详细信息。
 
-    ![image-20220704003623503](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220704003623503.png)
+    ![image-20220704003623503](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220704003623503.png)
 
 4. `要注意如上图所示的这几个地方：`
 
@@ -109,9 +109,9 @@ spring.servlet.multipart.max-file-size=17MB
 
 
 
-![image-20220704004057163](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220704004057163.png)
+![image-20220704004057163](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220704004057163.png)
 
-![image-20220704004118279](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220704004118279.png)
+![image-20220704004118279](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220704004118279.png)
 
 ## 三、实现流程
 
@@ -133,7 +133,7 @@ spring.servlet.multipart.max-file-size=17MB
 >         public static  final String url = "http://+ [下图所示的那段链接] +/";
 >         ```
 >
->         ![image-20220704004656291](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220704004656291.png)
+>         ![image-20220704004656291](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220704004656291.png)
 >
 > - utils中的这段代码需要的两个值，一定要在application.properties中配置上，不然识别不到！
 >

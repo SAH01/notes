@@ -289,7 +289,7 @@ public class RestFulController {
 
 
 
-![image-20211127212117120](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211127212117120.png)
+![image-20211127212117120](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211127212117120.png)
 
 ----
 
@@ -450,9 +450,9 @@ public class ControllerTest1 implements Controller {
 
 ### 中文乱码
 
-![image-20211128053007658](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128053007658.png)
+![image-20211128053007658](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128053007658.png)
 
-![image-20211128053016204](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211128053016204.png)
+![image-20211128053016204](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211128053016204.png)
 
 ---------
 
@@ -590,7 +590,7 @@ public class UserController {
 </web-app>
 ```
 
-![image-20211208223339121](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211208223339121.png)
+![image-20211208223339121](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211208223339121.png)
 
 ### 其次配置applicationContext.xml
 
@@ -621,11 +621,11 @@ public class UserController {
 </web-app>
 ```
 
-![image-20211208223415778](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211208223415778.png)
+![image-20211208223415778](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211208223415778.png)
 
 ### 最后新建controller包，写相应的controller方法
 
-![image-20211208223250551](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211208223250551.png)
+![image-20211208223250551](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20211208223250551.png)
 
 
 
