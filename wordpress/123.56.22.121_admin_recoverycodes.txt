@@ -1,0 +1,9 @@
+﻿Two-Factor Authentication Recovery Codes - http://123.56.22.121 (admin)
+
+Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. To use a recovery code, after entering your username and password, enter the code like "1234 5678 90AB CDEF" at the 2FA prompt. If your site has a custom login prompt and does not show a 2FA prompt, you can use the single-step method by entering your password and the code together in the Password field, like "mypassword1234 5678 90AB CDEF". Your recovery codes are:
+
+4c70 895a da4e 9ecf
+d473 b0b0 474a 553f
+6f11 15b1 af11 6dd0
+57f6 6d5d d0d7 46e0
+c35f 4d1b 4ded fe72
