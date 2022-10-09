@@ -8,7 +8,7 @@
 
 点击文件选项：
 
-![image-20220718180321560](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220718180321560.png)
+![image-20221007160216214](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221007160216214.png)
 
 ### 2、分别找到以下几个文件进行修改
 
@@ -41,4 +41,4 @@ function fancybox($content){
 
 保存退出之后再次点击查看你的文章会出现如下效果：
 
-![image-20220718180652897](https://gitee.com/yang-chuanwei/typora-img/raw/master/img/image-20220718180652897.png)
+![image-20221007160229010](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221007160229010.png)
