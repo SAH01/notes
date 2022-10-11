@@ -14,6 +14,12 @@
 
 ----
 
+启动hadoop集群	myhadoop.sh start 【脚本参考 https://www.cnblogs.com/rainbow-1/p/16774523.html】
+
+启动zookeeper集群 	myzk.sh start	【脚本参考 https://www.cnblogs.com/rainbow-1/p/15319226.html】
+
+启动kafka集群  kf.sh 	start 				【脚本参考 https://www.cnblogs.com/rainbow-1/p/16015749.html】
+
 ## 一、实时数据的模拟
 
 案例简化了第一步的流程，使用模拟数据进行测试，代码如下：
@@ -108,19 +114,15 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
 
 
 
-## 三、开启Kafka并使用Spark Streaming完成数据的接收
+## 三、使用Spark Streaming完成数据计算
 
-1. 首先需要开启集群的zookeeper服务
-
-2. 之后开启Kafka服务
-
-3. 开启Kafka后，新建一个名为first的主题（topic）
+1. 新建一个名为first的消费主题（topic）
 
    ```bash
-   bin/kafka-topics.sh --bootstrap-server hadoop102:9092 --create --partitions 1 --replication-factor 3 --topic first
+   bin/kafka-topics.sh --bootstrap-server hadoop102:9092 --create --partitions 1 --replication-factor 1 --topic first1
    ```
 
-4. 新建Maven项目，编写代码，Kafka的topic主题的消费者
+2. 新建Maven项目，编写代码，Kafka的topic主题的消费者
 
    **pom.xml配置如下：注意此处各个资源的版本号一定要与本机（IDEA编译器）的Scala版本一致，博主为Scala 2.12.11**
 
@@ -240,6 +242,11 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
    import java.text.SimpleDateFormat
    import java.util.Date
    
+   /**
+     * 主要是计算X秒内数据条数的变化
+     * 比如5秒内进来4条数据
+     */
+   
    import org.apache.spark.streaming.{Seconds, StreamingContext}
    /** Utility functions for Spark Streaming examples.*/
    object StreamingExamples extends  App{
@@ -258,7 +265,7 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
        .set("spark.streaming.kafka.MaxRatePerPartition","3")
        .set("spark.local.dir","./tmp")
        .set("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
-     //创建上下文，2s为批处理间隔
+     //创建上下文，5s为批处理间隔
      val ssc = new StreamingContext(conf,Seconds(5))
    
      //配置kafka参数，根据broker和topic创建连接Kafka 直接连接 direct kafka
@@ -275,15 +282,12 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
    
      //获取KafkaDStream
      val kafkaDirectStream = KafkaUtils.createDirectStream[String,String](ssc,
-       //
        PreferConsistent,Subscribe[String,String](List("first"),KafkaParams))
      kafkaDirectStream.print()
      var num=kafkaDirectStream.count()
-   
      var num_1=""
      num foreachRDD (x => {
-   //      var res=x.map(line=>line.split(","))
-   
+   //var res=x.map(line=>line.split(","))
         val connection = getCon()
         var time = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date).toString
         var sql = "insert into content_num values('" + time + "'," + x.collect()(0) + ")"
@@ -328,13 +332,14 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
      ssc.awaitTermination()
      def getCon()={
        Class.forName("com.mysql.cj.jdbc.Driver")
-       DriverManager.getConnection("jdbc:mysql://localhost:3306/spark?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8","root","000429")
+       DriverManager.getConnection("jdbc:mysql://localhost:3306/spark?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8","root","reliable")
      }
    }
    
+   
    ```
 
-   这段代码指定了虚拟机中Kafka的主题信息，并从中定时获取（博主设置的为5秒）期间变化的信息量，完成计算后把本机的时间和信息变化量存储到本地Mysql数据库中
+   这段代码指定了虚拟机中Kafka的主题信息，并从中定时获取（博主设置的为5秒）期间变化的信息量，完成计算后把本机的时间和信息变化量存储到本地Mysql数据库中【库spark 表content_num 字段 type num】
 
    - 注意指定时区和编码
 
@@ -346,9 +351,11 @@ bin/flume-ng agent -c conf/ -n a1 -f job/myflume.conf -Dflume.root.logger=INFO,c
 
 ## 四、可视化
 
-使用Echarts平滑折线图完成数据的展示（python flask框架）
+![](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221010094734855.png)
 
-1. 后台读取mysql的数据
+使用Echarts平滑折线图完成数据的展示
+
+1. 后台读取mysql的数据【spark_sql.py】
 
 ```python
 import pymysql
@@ -357,13 +364,14 @@ def get_conn():
     获取连接和游标
     :return:
     """
-    conn=pymysql.connect(host="127.0.0.1",
-                         user="root",
-                         password="000429",
-                         db="spark",
-                         charset="utf8")
-    cursor=conn.cursor()
-    return conn,cursor
+    conn = pymysql.connect(host="127.0.0.1",
+                           user="root",
+                           password="reliable",
+                           db="spark",
+                           charset="utf8")
+    cursor = conn.cursor()
+    return conn, cursor
+
 
 def close_conn(conn, cursor):
     """
@@ -377,27 +385,29 @@ def close_conn(conn, cursor):
     if conn:
         conn.close()
 
-#query
-def query(sql,*args):
+
+# query
+def query(sql, *args):
     """
     通用封装查询
     :param sql:
     :param args:
     :return:返回查询结果 （（），（））
     """
-    conn , cursor= get_conn()
+    conn, cursor = get_conn()
     print(sql)
     cursor.execute(sql)
     res = cursor.fetchall()
-    close_conn(conn , cursor)
+    close_conn(conn, cursor)
     return res
+
 
 def dynamic_bar():
     # 获取数据库连接
     conn, cursor = get_conn()
     if (conn != None):
         print("数据库连接成功！")
-    typenumsql = "select * from content_num order by time desc limit 11;"
+    typenumsql = "select * from content_num order by num desc limit 11;"
     detail_sql = ""
     res_title = query(typenumsql)
     type_num = []  # 存储类别+数量
@@ -409,7 +419,6 @@ def dynamic_bar():
 2. 路由获取后台数据
 
 ```python
-#获取 动态 柱状图数据
 @app.route('/dynamic_bar')
 def dynamic_bar():
     res_list=spark_sql.dynamic_bar()
@@ -424,7 +433,7 @@ def dynamic_bar():
     return {"data":my_list}
 ```
 
-3. 前台绘制折线图
+3. 前台绘制折线图 line.html
 
 ```html
 <!DOCTYPE html>
@@ -434,7 +443,7 @@ def dynamic_bar():
     </head>
     <body style="height: 100%; margin: 0">
         <div id="container" style="height: 100%"></div>
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.2.2/dist/echarts.min.js"></script>
+        <script type="text/javascript" src="../static/js/echarts.min.js"></script>
         <script src="../static/js/jquery-3.3.1.min.js"></script>
     </body>
 </html>
@@ -477,7 +486,7 @@ def dynamic_bar():
       series: [
         {
           name: 'Direct',
-          type: 'bar',
+          type: 'line',
           barWidth: '60%',
           data: []
         }
@@ -520,3 +529,4 @@ def dynamic_bar():
 
 ​	
 
+​	
