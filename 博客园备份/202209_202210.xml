@@ -1,0 +1,2604 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>博客园-靠谱杨</title><link>https://www.cnblogs.com/rainbow-1/</link><description>我可能不是一个天才，但我会努力成为一个人才。</description><language>zh-cn</language><lastBuildDate>Thu, 27 Oct 2022 11:13:13 GMT</lastBuildDate><pubDate>Thu, 27 Oct 2022 11:13:13 GMT</pubDate><ttl>60</ttl><item><title>最新完整版中图分类号详表下载（中国图书馆图书分类法第五版详表中图分类号）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/24/16821916.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Mon, 24 Oct 2022 08:39:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/24/16821916.html</guid><description><![CDATA[<p><span style="font-size: 16px;"><strong>三种格式的文件，xls、csv和sql。</strong></span></p>
+<p>预览如下：</p>
+<p>TM921.41发电机-电动机系统,TM921.41<br />TM921.42带放大机的拖动系统,TM921.42<br />TM921.43带磁放大器的拖动系统,TM921.43<br />TM921.44带半导体装置的拖动系统,TM921.44<br />TM921.45可控整流器-电动机拖动系统,TM921.45<br />TM921.46带电抗器、离合器的拖动系统,TM921.46<br />TM921.47同步、异步拖动系统,TM921.47<br />TM921.48多电机电力拖动系统,TM921.48<br />TM921.5控制系统,TM921.5<br />TM921.51变频控制系统,TM921.51<br />TM921.52脉冲控制系统,TM921.52<br />TM921.53串级系统,TM921.53<br />TM921.54同步旋转及随动系统,TM921.54<br />TM921.54+1伺服系统,TM921.54+1<br />TM921.54+2随动系统,TM921.54+2<br />TM921.54+3多电机协调,TM921.54+3<br />TM922电力牵引,TM922<br />TM922.0一般性问题,TM922.0<br />TM922.3牵引供电系统,TM922.3<br />TM922.31轨道回流线,TM922.31</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202210/2090080-20221024163544897-479270433.png" alt="" width="858" height="251" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202210/2090080-20221024163734475-1997614200.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>简表请查看：https://www.cnblogs.com/rainbow-1/p/16502658.html</p>
+<p><strong><span style="font-size: 18px;">免费下载链接请关注我的公众号 【靠谱杨的挨踢生活】回复【中图分类号】获取。</span></strong></p>
+<p>&nbsp;</p>]]></description></item><item><title>吴军《浪潮之巅（下）》阅读笔记---信息时代的科学基础</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/23/16818000.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 23 Oct 2022 02:05:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/23/16818000.html</guid><description><![CDATA[**工业革命和颠覆式创新的范式：现有产业+新技术=新产业。**
+
+从工业革命之前一个世纪开始一直到二战之前，科学基础是以牛顿力学为代表的经典物理学，相应的方法论是机械论。
+
+到二战后的信息时代，方法论则是被称为“三论“的**控制论、系统论和信息论。**
+
+## 1、机械论思维
+
+==机械思维==的最大特点是**确定性和可预见性**。牛顿等人用几个简单的公式就能讲清楚宇宙运行的规律，这种知识表达和传播的效率超出了之前所有文明。在瓦特之后的一个多世纪里，**发明家们认为一切都是可以通过机械运动来实现的。**伴随着这些理念，在工业时代的企业管理哲学和工业品生产过程的这种确定性（比如只要优化流水线，放进去零件，就一定可以出来一辆汽车）是相适应的。
+
+==泰勒管理学理论：==
+
+效率优先：流程化和标准化管理。
+
+同构的树状组织架构：根据产品功能对行政组织进行严格划分。
+
+![image-20221023095131276](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095131276.png)
+
+可预测性：在发现了普遍规律之后，只要将其应用到具体场景，便一定能够预知结果。
+
+人性化管理：劳资双方同时进行精神革命，即资方善待工人，劳方最大限度地发挥积极性，从而进一步提高效率，这种管理模式也被称为“积极性+刺激性”式的管理方式。（现在工人怠工的原因多因资方不善待他们，这与人性化管理背道而驰）
+
+## 2、控制论
+
+==控制论==：举个例子来说明控制论和机械思维的区别，根据机械思维，设计火箭时只要根据牛顿力学原理，考虑到各种已知参数，计算出发射的方位和角度，那么火箭的落点就应该在目标附近，但事实上根据这种设计方案发射的火箭落点误差非常大，而且基本呈随机分布。**这是因为哪怕事先考虑地再周全，计算得再精确，还是会存在大量意想不到的因素。**后来阿波罗登月的过程控制是这样设计的：在火箭的实际飞行过程中，不断根据一组组允许有偏差的、火箭位置和速度的实际观察数值，计算出飞行器当前应有的速度和方向。也就是说在整个飞行过程中，飞行器能够不断自行调整。
+
+![image-20221023095238939](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095238939.png)
+
+![image-20221023095256374](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095256374.png)
+
+小结一下机械思维和控制论思维两种方法论的差异：
+
+**前者是对未来的一种尽可能的预测，强调因果确定性。后者则是根据变化的反馈而不断调整，强调调整。**
+
+![image-20221023095319126](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095319126.png)
+
+![image-20221023095332873](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095332873.png)
+
+## 3、信息论
+
+==信息论==：采用量化的方式度量信息。信息论完全建立在不确定性的基础上。香农借用热力学中的熵的概念来描述信息世界的不确定性，并且将信息量和熵联系起来。香农指出：**想要消除系统内的不确定性，就要引入信息。**
+
+**香农第一定律**：将信号源内的符号（信息）转变成任何通信编码，而当这种编码尽量地服从等概率分布时，每个编码所携带的信息量达到最大，进而提高整个通信系统的效率（**可以用尽量少的码符号传输信源信息**）。
+
+【霍夫曼编码可以参考这篇文章https://blog.csdn.net/xgf415/article/details/52628073】
+
+香农第二定律：定量地描述了一个信道中的极限信息传输率和该信道的能力（带宽）的关系。
+
+**最大熵原理**：在对未知事件发生的概率分布进行预测时，我们的预测应当满足全部已知条件，而**对未知的情况不要做任何主观假设。**【不要把鸡蛋放在同一个篮子】
+
+## 4、系统论
+
+==系统论==：**整体的性能未必能通过局部性能的优化来实现**，对于一个有生命的系统，其功能并不等于每个局部功能的总和。这和机械论思维中的“整体总是能分解成局部，局部可以再合成为整体”的思路完全不同。
+
+![image-20221023095350655](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095350655.png)
+
+![image-20221023095358299](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221023095358299.png)
+
+以上内容摘自吴军老师的《浪潮之巅（下）》，进一步了解请自行查阅相关资料。]]></description></item><item><title>layui框架使用单页面弹出层组件layer</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/19/16808003.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Wed, 19 Oct 2022 13:58:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/19/16808003.html</guid><description><![CDATA[# layui实现单页面弹出层
+
+---
+
+首先需要导入layui的js和css：
+
+```html
+<link rel="stylesheet" href="layui/css/layui.css" />
+<script src="layui/layui.js"></script>
+```
+
+实现效果如下所示：单击政策图解按钮，会弹出一个子页面
+
+![image-20221019215024652](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221019215024652.png)
+
+![image-20221019215055111](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221019215055111.png)
+
+该layui弹出层实现代码如下：
+
+## 1、首先需要一个按钮
+
+```html
+<button onclick="selectRole()" style="margin-top: 30px;"  class="layui-btn layui-btn-normal">政策图解</button>
+```
+
+## 2、然后给这个button绑定layui事件
+
+**content:$("#popSearchRoleTest").html()**
+
+这段代码就是第三步提到的那个div块的id值，这是要获取那段html代码的文本然后在弹出的子页面做展示。
+
+```javascript
+//政策图解弹层
+function selectRole(){
+    layer.open({
+        //layer提供了5种层类型。可传入的值有：0（信息框，默认）1（页面层）2（iframe层）3（加载层）4（tips层）
+        type:1,
+        title:"政策图解",
+        area: ['85%','80%'],
+        content:$("#popSearchRoleTest").html()
+    });
+}
+```
+
+## 3、写出html代码，这段代码就是一会要显示的部分
+
+注意设置为**style="display:none;"**
+
+```html
+<div class="layui-row" id="popSearchRoleTest" style="display:none;">
+	<table lay-skin="row" class="layui-table" >
+	<thead>
+        <tr>
+            <th style="text-align: center">序号</th>
+            <th style="text-align: center">图解政策标题</th>
+            <th style="text-align: center">发布时间</th>
+            <!--<th>签名</th>-->
+        </tr>
+    </table>
+</div>
+```
+
+最后点击按钮就会在当前页面弹出的一个子页面中，显示出这段代码所呈现的样式。]]></description></item><item><title>科技报告数据语料处理（关键词、中图分类名称）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/17/16801120.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Mon, 17 Oct 2022 15:17:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/17/16801120.html</guid><description><![CDATA[# 科技报告语料处理
+
+接着上次爬取到的科技报告数据进行处理【参考 https://www.cnblogs.com/rainbow-1/p/16725576.html】
+
+为了建立科技报告的分类模型，现将其**关键字和中图分类名称**进行汇总，作为原始语料库。
+
+先前爬取的数据，存在数据格式不统一不规范的问题，比如分类名称为【数理科学与化学、数理科学和化学 分为了同一类】
+
+经过简单处理后的完整数据（mysql和txt都有，包括本文中提到的原始语料资源）可以关注我的公众号【靠谱杨的挨踢生活】回复【科技报告】获取。
+
+语料共计 **359141** 行。
+
+## 1、标准表
+
+分类字母序号+名称 tech_class.json
+
+```json
+{
+  "R": "医药、卫生",
+  "TB": "一般工业技术",
+  "Q": "生物科学",
+  "O": "数理科学和化学",
+  "S": "农业科学",
+  "T": "工业技术",
+  "TP": "自动化技术、计算机技术",
+  "P": "天文学、地球科学",
+  "TN": "无线电电子学、电信技术",
+  "TG": "金属学与金属工艺",
+  "TH": "机械、仪表工业",
+  "TQ": "化学工业",
+  "C": "社会科学总论",
+  "X": "环境科学、安全科学",
+  "TU": "建筑科学",
+  "TS": "轻工业、手工业",
+  "TK": "能源与动力工程",
+  "TM": "电工技术",
+  "TD": "矿业工程",
+  "F": "经济",
+  "G": "文化、科学、教育、体育",
+  "TV": "水利工程",
+  "U": "交通运输",
+  "N": "自然科学总论",
+  "TE": "石油、天然气工业",
+  "TF": "冶金工业",
+  "TJ": "武器工业",
+  "V": "航空、航天",
+  "B": "哲学、宗教",
+  "TL": "原子能技术",
+  "K": "历史、地理",
+  "D": "政治、法律",
+  "J": "艺术",
+  "H": "语言、文字",
+  "E": "军事",
+  "Z": "综合性图书",
+  "I": "文学",
+  "A": "mks主义、ln主义、mzd思想、dxp理论"
+}
+```
+
+仅分类名称 tech_name.txt
+
+```bash
+医药、卫生
+一般工业技术
+生物科学
+数理科学和化学
+农业科学
+工业技术
+自动化技术、计算机技术
+天文学、地球科学
+无线电电子学、电信技术
+金属学与金属工艺
+机械、仪表工业
+化学工业
+社会科学总论
+环境科学、安全科学
+建筑科学
+轻工业、手工业
+能源与动力工程
+电工技术
+矿业工程
+经济
+文化、科学、教育、体育
+水利工程
+交通运输
+自然科学总论
+石油、天然气工业
+冶金工业
+武器工业
+航空、航天
+哲学、宗教
+原子能技术
+历史、地理
+政治、法律
+艺术
+语言、文字
+军事
+综合性图书
+文学
+mks主义、ln主义、mzd思想、dxp理论
+```
+
+分类名称+语料数字序号 tech_order_class.json
+
+```json
+{
+  "医药、卫生": "0",
+  "一般工业技术": "1",
+  "生物科学": "2",
+  "数理科学和化学": "3",
+  "农业科学": "4",
+  "工业技术": "5",
+  "自动化技术、计算机技术": "6",
+  "天文学、地球科学": "7",
+  "无线电电子学、电信技术": "8",
+  "金属学与金属工艺": "9",
+  "机械、仪表工业": "10",
+  "化学工业": "11",
+  "社会科学总论": "12",
+  "环境科学、安全科学": "13",
+  "建筑科学": "14",
+  "轻工业、手工业": "15",
+  "能源与动力工程": "16",
+  "电工技术": "17",
+  "矿业工程": "18",
+  "经济": "19",
+  "文化、科学、教育、体育": "20",
+  "水利工程": "21",
+  "交通运输": "22",
+  "自然科学总论": "23",
+  "石油、天然气工业": "24",
+  "冶金工业": "25",
+  "武器工业": "26",
+  "航空、航天": "27",
+  "哲学、宗教": "28",
+  "原子能技术": "29",
+  "历史、地理": "30",
+  "政治、法律": "31",
+  "艺术": "32",
+  "语言、文字": "33",
+  "军事": "34",
+  "综合性图书": "35",
+  "文学": "36",
+  "mks主义、ln主义、mzd思想、dxp理论": "37"
+}
+```
+
+基本思路，提取各个分类报告中的【关键词和中图分类名称】。用 \t 分隔 关键词和名称，关键词中间用英文逗号分隔。
+
+实现效果如图：【序号是从0开始的 0 ---> 医药、卫生】
+
+![image-20221017230736959](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20221017230736959.png)
+
+## 2、代码
+
+### 2.1、data_clean.py
+
+提取关键词和名称，保存到tech_all.txt文件（数据库如文首所示方式关注公众号自行获取）
+
+```python
+import json
+
+from nlp_demo.tech_clean.utils_mysql import query
+
+def get_class_json():
+    f_class = open ("../tech_data/tech_name.txt", "r", encoding='utf-8')
+    res_dict = {}
+    while True:
+        line = f_class.readline()
+        if line:
+            # print(line)
+            # 按\t分隔 分开名称和序号
+            temp_str_list = line.split("\t")
+            class_name = str(temp_str_list[0])
+            class_num = str(temp_str_list[1].replace("\n",""))
+            res_dict[class_name] = class_num
+            # print("-------------------------")
+        else:
+            break
+    print(json.dumps(res_dict,ensure_ascii=False))
+    class_json = json.dumps(res_dict,ensure_ascii=False)
+    with open("../tech_data/tech_order_class.json", "w", encoding='utf-8') as f:
+        f.write(class_json)  # 自带文件关闭功能，不需要再写f.close()
+    f_class.close()
+    return
+
+# 处理语料
+"""
+处理训练集数据格式【tech_train.txt】
+关键词（使用英文逗号分隔） \t 分类号（从0开始）
+-----
+分类名称表【tech_name.txt】
+分类名称 \t 分类号（从0开始）
+"""
+def get_tech_data():
+    with open("../tech_data/tech_class.json", "r", encoding='utf-8') as fo:
+        # print(fo.read())
+        table_name = json.loads(fo.read())  # json 转 字典
+    with open("../tech_data/tech_order_class.json", "r", encoding='utf-8') as fo_1:
+        # print(fo.read())
+        tech_class = json.loads(fo_1.read())  # json 转 字典
+    # print(table_name)
+    # 使用上面的数据 拼接字符串 拼接表名 k 是字母号 v 是名称
+    for k,v in table_name.items():
+        order_num = None    # 根据名称找到对应的数字序号
+        if(k == None or v == None):
+            continue
+        for k1, v1 in tech_class.items():
+            # k1 是名称 v1 是数字序号
+            if(v == k1):
+                order_num = v1  # 给序号赋值
+        print("正在处理的类别：  " + k , v)
+        k = str(k)
+        v = str(v)
+        sql = "select * from tech_"+ k
+        # print("这是sql语句： " + sql)
+        # 第7个位置是 中文关键词 第16个位置是中图分类名称
+        res_one_class = query(sql)
+        for res_one_class_item in res_one_class:
+            keywordsCn = str(res_one_class_item[7])
+            classification = str(order_num)
+            with open("../tech_res_data/tech_all" + ".txt","a+",encoding='utf-8') as fw:
+                keywordsCn = keywordsCn.replace("；",",")
+                keywordsCn = keywordsCn.replace(";",",")
+                keywordsCn = keywordsCn.replace(",,","")
+                keywordsCn = keywordsCn.replace("，",",")
+                print(keywordsCn + " --------> " + classification)
+                fw.write( keywordsCn + "\t" + classification + "\n")
+        print("============= 这是分隔符 =============")
+    return 0
+
+if __name__ == '__main__':
+    # get_class_json()    # 生成json格式的分类名称文件
+    get_tech_data()
+```
+
+### 2.2、utils_mysql.py
+
+```python
+import pymysql
+"""
+------------------------------------------------------------------------------------
+"""
+def get_conn():
+    """
+    :return: 连接，游标
+    """
+    # 创建连接
+    conn = pymysql.connect(host="127.0.0.1",
+                    user="root",
+                    password="reliable",
+                    db="tech",
+                    charset="utf8")
+    # 创建游标
+    cursor = conn.cursor()  # 执行完毕返回的结果集默认以元组显示
+    return conn, cursor
+
+def close_conn(conn, cursor):
+    if cursor:
+        cursor.close()
+    if conn:
+        conn.close()
+"""
+-----------------------------------------------------------
+"""
+"""
+------------------------------------------------------------------------------------
+"""
+def query(sql,*args):
+    """
+    通用封装查询
+    :param sql:
+    :param args:
+    :return:返回查询结果 （（），（））
+    """
+    conn , cursor= get_conn()
+    print(sql)
+    cursor.execute(sql)
+    res = cursor.fetchall()
+    close_conn(conn , cursor)
+    return res
+```]]></description></item><item><title>pymysql连接、关闭、查询，python如何操作mysql数据库</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/16/16796906.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 16 Oct 2022 11:40:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/16/16796906.html</guid><description><![CDATA[<div class="cnblogs_code">
+<pre><span style="font-size: 16px;"><span style="color: #008080;"> 1</span> <span style="color: #0000ff;">def</span><span style="color: #000000;"> get_conn():
+</span><span style="color: #008080;"> 2</span>     <span style="color: #800000;">"""</span>
+<span style="color: #008080;"> 3</span> <span style="color: #800000;">    :return: 连接，游标
+</span><span style="color: #008080;"> 4</span>     <span style="color: #800000;">"""</span>
+<span style="color: #008080;"> 5</span>     <span style="color: #008000;">#</span><span style="color: #008000;"> 创建连接</span>
+<span style="color: #008080;"> 6</span>     conn = pymysql.connect(host=<span style="color: #800000;">"</span><span style="color: #800000;">127.0.0.1</span><span style="color: #800000;">"</span><span style="color: #000000;">,
+</span><span style="color: #008080;"> 7</span>                     user=<span style="color: #800000;">"</span><span style="color: #800000;">root</span><span style="color: #800000;">"</span><span style="color: #000000;">,
+</span><span style="color: #008080;"> 8</span>                     password=<span style="color: #800000;">"你的数据库密码</span><span style="color: #800000;">"</span><span style="color: #000000;">,
+</span><span style="color: #008080;"> 9</span>                     db=<span style="color: #800000;">"要使用的数据名称</span><span style="color: #800000;">"</span><span style="color: #000000;">,
+</span><span style="color: #008080;">10</span>                     charset=<span style="color: #800000;">"</span><span style="color: #800000;">utf8</span><span style="color: #800000;">"</span><span style="color: #000000;">)
+</span><span style="color: #008080;">11</span>     <span style="color: #008000;">#</span><span style="color: #008000;"> 创建游标</span>
+<span style="color: #008080;">12</span>     cursor = conn.cursor()  <span style="color: #008000;">#</span><span style="color: #008000;"> 执行完毕返回的结果集默认以元组显示</span>
+<span style="color: #008080;">13</span>     <span style="color: #0000ff;">return</span><span style="color: #000000;"> conn, cursor
+</span><span style="color: #008080;">14</span> 
+<span style="color: #008080;">15</span> <span style="color: #0000ff;">def</span><span style="color: #000000;"> close_conn(conn, cursor):
+</span><span style="color: #008080;">16</span>     <span style="color: #0000ff;">if</span><span style="color: #000000;"> cursor:
+</span><span style="color: #008080;">17</span> <span style="color: #000000;">        cursor.close()
+</span><span style="color: #008080;">18</span>     <span style="color: #0000ff;">if</span><span style="color: #000000;"> conn:
+</span><span style="color: #008080;">19</span> <span style="color: #000000;">        conn.close()
+</span><span style="color: #008080;">20</span> <span style="color: #800000;">"""</span>
+<span style="color: #008080;">21</span> <span style="color: #800000;">-----------------------------------------------------------
+</span><span style="color: #008080;">22</span> <span style="color: #800000;">"""</span>
+<span style="color: #008080;">23</span> <span style="color: #800000;">"""</span>
+<span style="color: #008080;">24</span> <span style="color: #800000;">------------------------------------------------------------------------------------
+</span><span style="color: #008080;">25</span> <span style="color: #800000;">"""</span>
+<span style="color: #008080;">26</span> <span style="color: #0000ff;">def</span> query(sql,*<span style="color: #000000;">args):
+</span><span style="color: #008080;">27</span>     <span style="color: #800000;">"""</span>
+<span style="color: #008080;">28</span> <span style="color: #800000;">    通用封装查询
+</span><span style="color: #008080;">29</span> <span style="color: #800000;">    :param sql:
+</span><span style="color: #008080;">30</span> <span style="color: #800000;">    :param args:
+</span><span style="color: #008080;">31</span> <span style="color: #800000;">    :return:返回查询结果 （（），（））
+</span><span style="color: #008080;">32</span>     <span style="color: #800000;">"""</span>
+<span style="color: #008080;">33</span>     conn , cursor=<span style="color: #000000;"> get_conn()
+</span><span style="color: #008080;">34</span>     <span style="color: #0000ff;">print</span><span style="color: #000000;">(sql)
+</span><span style="color: #008080;">35</span> <span style="color: #000000;">    cursor.execute(sql)
+</span><span style="color: #008080;">36</span>     res =<span style="color: #000000;"> cursor.fetchall()
+</span><span style="color: #008080;">37</span> <span style="color: #000000;">    close_conn(conn , cursor)
+</span><span style="color: #008080;">38</span>     <span style="color: #0000ff;">return</span> res</span></pre>
+</div>
+<p>&nbsp;</p>]]></description></item><item><title>关于2023届互联网秋招，我想简单说两句</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/11/16779048.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 11 Oct 2022 06:11:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/11/16779048.html</guid><description><![CDATA[我是一名2023届双非毕业生（软件工程专业，无实习经历），大概从7月开始吧，打磨简历、刷笔试题、看面经、找公司、投简历、做性格测试、做笔试、面试、总结面试，之后再次打磨简历。。。这样周而复始的几个月过去了，有一些经验之谈或者说是切身体会吧，在此做一下记录和分享。（我投递的后端开发岗居多数）
+
+## 1、关于简历
+
+从简历开始说起吧，之前我有一个观念：简历可以自行润色抛光，也就是说可以有虚构的成分。但是经过这几个月的实际体验，我认为关于这个要慎重。如果像我一样投递技术开发岗位，**关于个人技能和项目经历的模块最好还是实事求是，有什么就写什么**，把熟悉的往前写，而且**注意对技能掌握程度的修饰用词**，比如【了解、一般、熟练、精通】等等。
+
+刚开始我也有想把简历写的“华丽”一些，我的技术栈写了很多很多，而且没有很注意区分关于技能熟练度的修饰，这让我狠狠地栽了一次。**因为面试官在问你的时候，他多半有四个依据，第一是他个人习惯，第二是你简历上写的技术栈，第三是根据你的项目描述，第四是面试官的随机应变**，也就是根据你的回答去问下一个问题。我小结一下，关于简历，要注重实事求是而且要在可以的地方适当修饰，比如校内经历、荣誉奖项等等，这些方面如果修饰一下的话是可以的。但是关于技术栈、项目经历等一定要慎之又慎。
+
+还有一点想说，**最好可以让面试官最快捷最直观的看到你的全貌**，如果有个人技术博客的主页、github仓库或个人主页等等，建议把链接放到简历上去，这些都是关于你个人的学习能力、学习习惯、生活状态以及大学期间的学习历程最有力、最直接的表达。然后简历中关于base地、期望岗位和薪资要根据你投递的不同公司去调整，切记不要一份简历行天下！
+
+## 2、关于公司的选择和简历的投递
+
+下面说一下公司的选择和简历的投递，公司的选择我们可以通过很多渠道去了解，比如学校的资源、老师和学长学姐的建议、个人规划、各大招聘平台等等。关于简历的投递，我个人建议，【**尽量要直接去公司的官网去投递（或者去官方公众号）**】因为公司一般会优先筛选在官网注册登录并提交个人信息和求职信息的人，被优先安排的概率会更大一些。还有有点就是如果在填写信息的时候，看到了有内推码一栏，【一定要去搜索一个该公司最新的**内推码**填写上去，这也会提升你被优先考虑的概率】。
+
+> 分享几个平台：智联招聘、Boss直聘、你的学校官网的就业平台、23456国家大学生就业服务平台、牛客等等（个人感觉Boss挺好用的，不过还是官网和官方公众号命中率最高！）
+
+## 3、关于笔试
+
+关于笔试，我个人的笔试其实做的挺稀碎的。就我个人体会来说，笔试确实重要，而且档次稍微好一些的公司确实很看重笔试，会根据笔试成绩刷下去很多人。但是对于一些中厂和小厂，笔试这个环节没有特别特别得不可逾越。我遇到很多公司，在我没有做笔试的情况下就已经通知我面试了。对此我仅想表达一种观念，就是我们大可放宽心态，很多事情没有我们印象中的那么死板，我们的思想活一些，可能事情就没有那么难办。当然还是硬实力最重要，刷题这事儿也不能落下。
+
+## 4、关于面试
+
+关于面试，我简单说几点。在面试的时候，最好可以提前**打开录屏把整个面试过程记录下来以便你之后复盘**，因为这种方式可以让你最快也最直观的发现自己在面试中的得失，也方便你后续修改简历以及面试经验的积累。**自我介绍要简明扼要**，保持严肃。在面试过程中，确实是不必过分紧张，多数面试官并没有那么可怕，他们也是期望可以招你来公司的，打开话匣子不必拘束。但是切记切记，**不要开一些不合时宜的玩笑**，话题和语言也不要过分随意，因为这毕竟是在面试，还是需要相对严肃一些，如果过于活跃可能会给面试官留下不好的印象（当然是有些面试官，这需要看面试官个人的性格以及你面试的岗位是什么）。
+
+在和面试官进行问答的时候，要**避重就轻**，对于你熟悉的地方要多说，不熟悉的地方少说或者就尽量不要提到。因为我上面有提到面试官会根据你的回答去考虑他下一个问题问什么，比如你在讲项目的时候提到了redis，他的下一个问题可能就让你说说redis都有哪些数据类型。所以我们回答问题或者陈述观点的时候要慎重，就像我上面说的写简历一样，在这些硬核的东西上千万不要自己给自己挖坑！
+
+**如果可以的话，把自己最得心应手的项目和面试官屏幕共享一下，做一下演示和讲解**。之前讲到的你的个人github、个人主页、个人博客，都可以共享打开一下，这些都可以加深面试官对你的印象和好感度，前提是做好准备，别像我一样项目运行报错了 :( 就稍微有一点尴尬，讲解和回答问题要自信，一定要自信。
+
+一般在面试最后会有一个**反问环节**，会让你去询问面试官一些你关心的问题。关于这部分，我感觉有几点需要说一下，首先是你对公司的了解程度，包括公司的业务范围、企业文化等等【提前做好功课，其实这些去官网看十几分钟也就都了解了】，然后你需要讲一下希望公司为你提供怎样的成长环境，你的个人规划是什么。然后面试官一般会问到的问题，比如怎么看待加班、是否接受出差、期望base、期望薪资等等，像这类问题要提前考虑清楚，到时候做到对答如流，如果这些问题你回答的含糊不清或者出现卡顿，面试官可能会觉得你对公司的了解程度不高（兴趣不大）、对自我认知不清晰、对自己的职业生涯规划不明确。还有一点就是和面试官积极沟通，如果可以的话面试结束后加一下微信，多沟通这是有好处的。
+
+还有很重要的一点需要说一下，**每一次的面试必然要伴随着总结回顾**，一般我会做如下几个事情：第一总结面试得失，这些“失”多是非知识性的，比如说话哪里快了慢了，提到自己不熟悉的领域之类的。第二我会回顾面试中提到的知识性问题，我写了一个文档，每次面试我都会去更新这个文档的内容，提到的问题我会多次优化完善，没有提到的问题我会加进去。第三我会去修改我的简历，看看简历上有哪些地方可以帮助我更好地面试。第四我会调整心态，以一个更好的自己去迎接下一个面试。
+
+笔者现已拿到了一个保底offer，目前正在交流一些入职前的问题，最后祝各位**赢在秋招！早日offer！**
+
+（关于我个人总结的一些Java开发相关的面试题，关注我的公众号【靠谱杨的挨踢生活】回复【面经】即可下载）
+
+【我的主页：[靠谱杨技术博客_我的IT生活](https://www.reliableyang.cn/)，欢迎各位大佬来踩。】]]></description></item><item><title>hadoop集群启动脚本文件myhadoop.sh</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/10/16774523.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Mon, 10 Oct 2022 01:30:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/10/16774523.html</guid><description><![CDATA[```bash
+#!/bin/bash
+ 
+if [ $# -lt 1 ]
+then
+    echo "No Args Input..."
+    exit ;
+fi
+ 
+case $1 in
+"start")
+        echo " =================== 启动 hadoop集群 ==================="
+ 
+        echo " --------------- 启动 hdfs ---------------"
+        ssh hadoop102 "/opt/module/hadoop-3.1.3/sbin/start-dfs.sh"
+        echo " --------------- 启动 yarn ---------------"
+        ssh hadoop103 "/opt/module/hadoop-3.1.3/sbin/start-yarn.sh"
+        echo " --------------- 启动 historyserver ---------------"
+        ssh hadoop102 "/opt/module/hadoop-3.1.3/bin/mapred --daemon start historyserver"
+;;
+"stop")
+        echo " =================== 关闭 hadoop集群 ==================="
+ 
+        echo " --------------- 关闭 historyserver ---------------"
+        ssh hadoop102 "/opt/module/hadoop-3.1.3/bin/mapred --daemon stop historyserver"
+        echo " --------------- 关闭 yarn ---------------"
+        ssh hadoop103 "/opt/module/hadoop-3.1.3/sbin/stop-yarn.sh"
+        echo " --------------- 关闭 hdfs ---------------"
+        ssh hadoop102 "/opt/module/hadoop-3.1.3/sbin/stop-dfs.sh"
+;;
+*)
+    echo "Input Args Error..."
+;;
+esac
+```]]></description></item><item><title>【非插件实现】wordpress网站页脚添加，网站总访问数/今日访客数</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/10/06/16757769.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Thu, 06 Oct 2022 07:50:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/10/06/16757769.html</guid><description><![CDATA[<div class="cnblogs_code">
+<pre><span style="color: #008080;"> 1</span> <span style="color: #008000;">/*</span><span style="color: #008000;">*
+</span><span style="color: #008080;"> 2</span> <span style="color: #008000;">* 统计全站总访问量/今日总访问量/当前是第几个访客
+</span><span style="color: #008080;"> 3</span> <span style="color: #008000;">* @return [type] [description]
+</span><span style="color: #008080;"> 4</span> <span style="color: #008000;">*/</span>
+<span style="color: #008080;"> 5</span> <span style="color: #0000ff;">function</span><span style="color: #000000;"> wb_site_count_user(){
+</span><span style="color: #008080;"> 6</span> <span style="color: #800080;">$addnum</span> = 1; <span style="color: #008000;">//</span><span style="color: #008000;">初始化访问人数</span>
+<span style="color: #008080;"> 7</span> <span style="color: #008080;">session_start</span><span style="color: #000000;">();
+</span><span style="color: #008080;"> 8</span> <span style="color: #800080;">$date</span> = <span style="color: #008080;">date</span>('ymd',<span style="color: #008080;">time</span><span style="color: #000000;">());
+</span><span style="color: #008080;"> 9</span> <span style="color: #0000ff;">if</span>(!<span style="color: #0000ff;">isset</span>(<span style="color: #800080;">$_SESSION</span>['wb_'.<span style="color: #800080;">$date</span>]) &amp;&amp; !<span style="color: #800080;">$_SESSION</span>['wb_'.<span style="color: #800080;">$date</span><span style="color: #000000;">]){
+</span><span style="color: #008080;">10</span> <span style="color: #800080;">$count</span> = get_option('site_count'<span style="color: #000000;">);
+</span><span style="color: #008080;">11</span> <span style="color: #0000ff;">if</span>(!<span style="color: #800080;">$count</span> || !<span style="color: #008080;">is_array</span>(<span style="color: #800080;">$count</span><span style="color: #000000;">)){
+</span><span style="color: #008080;">12</span> <span style="color: #800080;">$newcount</span> = <span style="color: #0000ff;">array</span><span style="color: #000000;">(
+</span><span style="color: #008080;">13</span> 'all' =&gt; 0,
+<span style="color: #008080;">14</span> 'date' =&gt; <span style="color: #800080;">$date</span>,
+<span style="color: #008080;">15</span> 'today' =&gt; <span style="color: #800080;">$addnum</span>
+<span style="color: #008080;">16</span> <span style="color: #000000;">);
+</span><span style="color: #008080;">17</span> update_option( 'site_count', <span style="color: #800080;">$newcount</span><span style="color: #000000;"> );
+</span><span style="color: #008080;">18</span> }<span style="color: #0000ff;">else</span><span style="color: #000000;">{
+</span><span style="color: #008080;">19</span> <span style="color: #800080;">$newcount</span> = <span style="color: #0000ff;">array</span><span style="color: #000000;">(
+</span><span style="color: #008080;">20</span> 'all' =&gt; (<span style="color: #800080;">$count</span>['all']+<span style="color: #800080;">$addnum</span>),
+<span style="color: #008080;">21</span> 'date' =&gt; <span style="color: #800080;">$date</span>,
+<span style="color: #008080;">22</span> 'today' =&gt; (<span style="color: #800080;">$count</span>['date'] == <span style="color: #800080;">$date</span>) ? (<span style="color: #800080;">$count</span>['today']+<span style="color: #800080;">$addnum</span>) : <span style="color: #800080;">$addnum</span>
+<span style="color: #008080;">23</span> <span style="color: #000000;">);
+</span><span style="color: #008080;">24</span> update_option( 'site_count', <span style="color: #800080;">$newcount</span><span style="color: #000000;"> );
+</span><span style="color: #008080;">25</span> <span style="color: #000000;">}
+</span><span style="color: #008080;">26</span> <span style="color: #800080;">$_SESSION</span>['wb_'.<span style="color: #800080;">$date</span>] = <span style="color: #800080;">$newcount</span>['today'<span style="color: #000000;">];
+</span><span style="color: #008080;">27</span> <span style="color: #000000;">}
+</span><span style="color: #008080;">28</span> <span style="color: #0000ff;">return</span><span style="color: #000000;">;
+</span><span style="color: #008080;">29</span> <span style="color: #000000;">}
+</span><span style="color: #008080;">30</span> add_action('init', 'wb_site_count_user'<span style="color: #000000;">);
+</span><span style="color: #008080;">31</span> <span style="color: #008000;">//</span><span style="color: #008000;">输出访问统计</span>
+<span style="color: #008080;">32</span> <span style="color: #0000ff;">function</span><span style="color: #000000;"> wb_echo_site_count(){
+</span><span style="color: #008080;">33</span> <span style="color: #008080;">session_start</span><span style="color: #000000;">();
+</span><span style="color: #008080;">34</span> <span style="color: #800080;">$sitecount</span> = get_option('site_count'<span style="color: #000000;">);
+</span><span style="color: #008080;">35</span> <span style="color: #800080;">$date</span> = <span style="color: #008080;">date</span>('ymd',<span style="color: #008080;">time</span><span style="color: #000000;">());
+</span><span style="color: #008080;">36</span> <span style="color: #0000ff;">echo</span> '&lt;p&gt;总访问量：&lt;span style="color:#7df1ff"&gt;'.absint(<span style="color: #800080;">$sitecount</span>['all']).'&lt;/span&gt; &amp;nbsp;&amp;nbsp; 今日访问量：&lt;span style="color:#7df1ff"&gt;'.absint(<span style="color: #800080;">$sitecount</span>['today']).'&lt;/span&gt; &amp;nbsp;&amp;nbsp; 您是今天第：&lt;span style="color:#7df1ff"&gt;'.absint(<span style="color: #800080;">$_SESSION</span>['wb_'.<span style="color: #800080;">$date</span>]).'&lt;/span&gt; 位访问者&lt;/p&gt;'<span style="color: #000000;">;
+</span><span style="color: #008080;">37</span> }</pre>
+</div>
+<p>&nbsp;</p>
+<p>在function文件中插入以上代码</p>
+<p>在footer文件中写入以下代码</p>
+<div class="cnblogs_code">
+<pre><span style="color: #008080;">1</span> <span style="color: #0000ff;">&lt;</span><span style="color: #800000;">div </span><span style="color: #ff0000;">style</span><span style="color: #0000ff;">="text-align: center;background:#000;color:#FFF"</span><span style="color: #0000ff;">&gt;</span> <span style="color: #0000ff;">&lt;?</span><span style="color: #ff00ff;">php wb_echo_site_count(); </span><span style="color: #0000ff;">?&gt;</span> <span style="color: #0000ff;">&lt;/</span><span style="color: #800000;">div</span><span style="color: #0000ff;">&gt;</span></pre>
+</div>
+<p>效果如下：</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202210/2090080-20221006154933454-1830339260.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p>参考自：https://www.laoliang.net/jsjh/technology/9383.html</p>]]></description></item><item><title>springboot自动配置原理以及手动实现配置类</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/30/16746472.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Fri, 30 Sep 2022 14:48:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/30/16746472.html</guid><description><![CDATA[# springboot自动配置原理以及手动实现配置类
+
+## 1、原理
+
+spring有一个思想是“约定大于配置”。
+
+配置类自动配置可以帮助开发人员更加专注于业务逻辑开发，springboot在启动的时候可以把一些配置类自动注入到spring的IOC容器里，项目运行之后就可以直接使用这些配置类的属性和方法等。
+
+springboot有一个全局配置文件，application.properties / application.yml，各种属性都可以在文件中进行自定义配置。
+
+**自动配置实现原理：**
+
+我们都知道项目的入口是 **@SpringBootApplication** 注解，这个注解标识了该类是springboot的启动类，那我们就从它入手一探究竟。
+
+![image-20220930213911027](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930213911027.png)
+
+我们可以看到这个注解是一个复合注解，其中的 **@EnableAutoConfiguration** 注解表示**开启自动配置**，这个注解也是复合注解。
+
+我们可以看到它导入了一个名为**AutoConfigurationImportSelector**的类，那么这个类的作用是什么呢？
+
+![image-20220930214038213](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930214038213.png)
+
+我们继续往下看，可以看到 **selectImports( )** 方法
+
+![image-20220930221426796](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930221426796.png)
+
+selectImports 这个方法通过调用 **SpringFactoriesLoader.loadFactoryNames()** 方法扫描spring-boot-autoconfigure-xxx.jar/META-INF路径下的 **spring.factories**文件，**通过类的全路径拿到需要配置的类名，然后通过反射将其全部注入IOC容器中。**
+
+![image-20220930221556112](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930221556112.png)
+
+![image-20220930221728628](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930221728628.png)
+
+> 每个配置类都有一些属性，XXXAutoConfiguration自动配置类，会有一个@EnableConfigurationProperties注解，它的参数是一个XXXProperties类，该注解的作用是把XXXProperties类的实例加载到Spring的IOC容器中，而**XXXProperties**类中的属性就是自动配置的属性。
+
+XXXProperties类有一个注解**@ConfigurationProperties**，该注解可以扫描全局配置文件application.properties或者application.yml文件中以**prefix**开头的一组配置绑定到DataSourceProperties实例的属性上，实现自动配置。
+
+```java
+// 全局扫描注入 配置文件中以spring.datasource开头的值
+@ConfigurationProperties(
+    prefix = "spring.datasource"
+)
+```
+
+## 2、手动写一个自动配置类
+
+有了上面的理解，我们可以自己动手写一个自动配置类。
+
+自动配置类做的事情就是把**@EnableConfigurationProperties**注解标识的类注入到IOC容器。
+
+2.1、所以我们先写一个自动配置类**SeviceAutoConfiguration**
+
+```java
+package com.ycw.autoconfig.configuration;
+
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.context.annotation.Configuration;
+
+/**
+ * @author Administrator
+ * @date 2022-09-30 21:51
+ */
+@Slf4j
+@Configuration  //　自动配置类
+@EnableConfigurationProperties(ServiceProperties.class)     // 标识XXXProperties类的实例
+public class SeviceAutoConfiguration {
+
+}
+```
+
+2.2、写真正要加入容器的类**ServiceProperties**
+
+```java
+package com.ycw.autoconfig.configuration;
+
+import lombok.Data;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
+/**
+ * @author Administrator
+ * @date 2022-09-30 21:50
+ */
+@Data
+@Slf4j
+@ConfigurationProperties(prefix = "myconfig")   // 扫描全局配置文件完成属性注入
+public class ServiceProperties {
+	private String name;
+	public void print(){
+		log.info("自动配置成功! " + name);
+	}
+}
+
+```
+
+2.3、在resources目录下新建目录META-INF，新建文件**spring.factories**完成对自动配置类全路径配置
+
+![image-20220930223207593](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930223207593.png)
+
+```properties
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ycw.autoconfig.configuration.SeviceAutoConfiguration
+```
+
+2.4、在全局配置文件**application.properties**中添加属性注入
+
+![image-20220930223402246](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930223402246.png)
+
+2.5、写一个Controller测试，ControllerTest
+
+```java
+package com.ycw.autoconfig.controller;
+
+import com.ycw.autoconfig.configuration.ServiceProperties;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import javax.annotation.Resource;
+
+/**
+ * @author Administrator
+ * @date 2022-09-30 21:54
+ */
+@RestController
+public class ControllerTest {
+	@Resource
+	private ServiceProperties serviceProperties;
+	@RequestMapping("test")
+	public void test(){
+		serviceProperties.print();
+	}
+}
+```
+
+运行之后我们可以看到：
+
+![image-20220930223517183](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220930223517183.png)
+
+
+
+分析一下这个过程：
+
+1. 启动类**@SpringBootApplication**通过**spring.factories**文件中的org.springframework.boot.autoconfigure.EnableAutoConfiguration找到了SeviceAutoConfiguration
+2. @Configuration 注解的类SeviceAutoConfiguration被springboot扫描到后，它所标识的**@EnableConfigurationProperties(ServiceProperties.class)** 开始进入被注入容器的过程
+
+3. ServiceProperties 类的注解**@ConfigurationProperties(prefix = "myconfig")** 使得springboot扫描全局配置文件**application.properties**
+4. application.properties中的 **myconfig.name=yangchuanwei** 被注入到属性name中，自此ServiceProperties已经被自动配置成功！
+
+---
+
+获取demo地址可以关注公众号【靠谱杨的挨踢生活】，回复【autoconfig】获取下载链接。
+]]></description></item><item><title>Java对象序列化和反序列化</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/26/16732944.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Mon, 26 Sep 2022 15:13:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/26/16732944.html</guid><description><![CDATA[## Java类的序列化和反序列化
+
+**序列化：**指将对象转换为字节序列的过程，也就是将对象的信息转换成文件保存。 
+
+**反序列化：**将字节序列转换成目标对象的过程，也就是读取文件，并转换为对象。
+
+**几个关键点：**
+
+- 必须实现Serializable接口才可以进行序列化
+- 字段属性 **serialVersionUID** 决定了被修改后的类（比如增加或删除了一个字段），序列化和反序列化是否成功【相当于验证版本一致性的编号】
+
+
+
+**这个字段可以自定义，也可以用IDE生成，还可以调用方法生成**
+
+**自定义**比如： private static final long serialVersionUID = 1L;
+
+**使用编译器生成需要设置一下：**
+
+![image-20220926223215070](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926223215070.png)
+
+![image-20220926223407020](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926223407020.png)
+
+![image-20220926223423811](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926223423811.png)
+
+**使用代码生成可以这样写：**
+
+```java
+ObjectStreamClass c = ObjectStreamClass.lookup(Student.class);
+long serialID = c.getSerialVersionUID();
+System.out.println(serialID);
+```
+
+> 建议自己指定一个ID，因为如果是自动生成的话，可能会存在版本不同的问题。
+>
+> ！！！记住这个字段的类型是static final long ！！！
+
+
+
+下面上代码：
+
+待序列化的类**Student**
+
+```java
+package serializable;
+
+/**
+ * @author Administrator
+ * @date 2022-09-26 21:47
+ */
+// 实现Serializable接口的学生类
+import java.io.Serializable;
+public class Student implements Serializable {
+	private static final long serialVersionUID = -575577087488357438L;
+	private int age;
+	private String name;
+	public Student(int age, String name) {
+		this.age = age;
+		this.name = name;
+	}
+	@Override
+	public String toString() {
+		return "Student{" +
+				"age=" + age +
+				", name='" + name + '\'' +
+				'}';
+	}
+}
+```
+
+序列化和反序列化测试类**STest**
+
+```java
+package serializable;
+
+import java.io.*;
+
+/**
+ * @author Administrator
+ * @date 2022-09-26 21:48
+ */
+public class STest {
+	public static void main(String[] args) {
+		serial();
+		deserial();
+	}
+	// 序列化方法
+	private static void serial(){
+		Student student = new Student(21, "John");
+		try {
+			// FileOutputStream流是指文件字节输出流，
+			// 专用于输出原始字节流如图像数据等，其继承OutputStream类，拥有输出流的基本特性
+			FileOutputStream fileOutputStream = new FileOutputStream("Student.txt");
+			// 对象的序列化流，作用：把对象转成字节数据的输出到文件中保存，
+			// 对象的输出过程称为序列化，可实现对象的持久存储。
+			ObjectOutputStream objectOutputStream= new ObjectOutputStream(fileOutputStream);
+			objectOutputStream.writeObject(student);
+			objectOutputStream.flush();
+		} catch (Exception exception) {
+			exception.printStackTrace();
+		}
+	}
+	// 反序列化方法
+	private static void deserial() {
+		try {
+			FileInputStream fis = new FileInputStream("Student.txt");
+			// ObjectInputStream 反序列化流，
+			// 将之前使用 ObjectOutputStream 序列化的原始数据恢复为对象，以流的方式读取对象。
+			// 构造方法 ObjectInputStream(InputStream in) 创建从指定 InputStream 读取的 ObjectInputStream。
+			ObjectInputStream ois = new ObjectInputStream(fis);
+			Student student = (Student) ois.readObject();
+			ois.close();
+			System.out.println(student.toString());
+		}catch (IOException | ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+}
+```
+
+
+
+直接运行STest的main方法，可以看到生成了Student.txt字节流序列化文件，再次调用反序列化方法deserial可以看到控制台成功输出了Student对象的信息。【因为重写了toString方法，所以输出的是字段属性值】
+
+![image-20220926224121345](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926224121345.png)
+
+![image-20220926224203491](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926224203491.png)]]></description></item><item><title>北京思特奇2023年校招笔试（Java）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/26/16732634.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Mon, 26 Sep 2022 13:44:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/26/16732634.html</guid><description><![CDATA[# 北京思特奇2023年校招笔试（Java）
+
+1、表达式 (short)10/10.2*2 运算后结果是什么类型？
+
+> 答案：double，浮点数默认是double，自动类型向上转换为浮点数类型
+
+
+
+2、 serialVersionUID 字段必须是什么类型？
+
+> 想了解这个字段的类型，首先要了解序列化和反序列化是什么？
+>
+> **序列化：**指将对象转换为字节序列的过程，也就是将对象的信息转换成文件保存。 ’
+>
+> **反序列化：**将字节序列转换成目标对象的过程，也就是读取文件，并转换为对象。
+>
+> serialVersionUID 是用作Serializable类中的版本控件。
+>
+> JVM将根据您的Serializable类，在类进行序列化的时候自动生成一个serialVersionUID，在序列化完毕后，如果我们对反序列化之前对类的方法或者属性进行了修改的话，在反序列化的时候就会报错。
+>
+> 但是如果我们确定了==private static final long serialVersionUID = 1L; ==那么即使我们改变了类，曾经序列化的对象在反序列化的时候也不会出错。
+>
+> 所以答案为：static final long
+
+
+
+3、以下对JDBC事务描述错误的是
+
+JDBC事务属于JAVA事务的一种【正确】
+
+JDBC事务属于容器事务类型【错误】
+
+> JDBC 事务是用 Connection 对象控制的。JDBC Connection 接口（ java.sql.Connection ）提供了两种事务模式：**自动提交**和**手工提交**。
+>
+> JTA（Java Transaction API）事务，是一种高层的，与实现无关的，与协议无关的API，应用程序和应用服务器可以使用JTA来访问事务，JTA允许应用程序执行**分布式**事务处理——在两个或多个网络计算机资源上访问并且更新数据，这些数据可以分布在多个数据库上。JDBC驱动程序的JTA支持极大地增强了数据访问能力。
+>
+> 容器事务主要是J2EE应用服务器提供的，容器事务大多是基于JTA完成，这是一个基于JNDI的，相当复杂的API实现。
+>
+> 小结：
+>
+> 1、JDBC事务控制的局限性在一个数据库连接内，但是其使用简单。
+> 2、JTA事务的功能强大，事务可以跨越多个数据库或多个DAO，使用也比较复杂。
+> 3、容器事务，主要指的是J2EE应用服务器提供的事务管理，局限于EJB应用使用。
+>
+> 部分内容来自CSDN（侵联删）
+
+
+
+4、下面哪个基于Unicode字符的输出流？
+
+Reader
+
+Writer【正确】
+
+InputStream
+
+OutputStream
+
+> 类名以stream结尾的都是字节流；类名以reader或者writer结尾的都是字符流。
+>
+> 输入输出是相对于计算机内存为主体的，所以写是输出，读是输入。
+
+
+
+5、线程池的状态有哪些？
+
+RUNNING：运行状态，线程池创建好之后就会进入此状态，如果不手动调用关闭方法，那么线程池在整个程序运行期间都是此状态。
+
+SHUTDOWN：关闭状态，不再接受新任务提交，但是会将已保存在任务队列中的任务处理完。
+
+STOP：停止状态，不再接受新任务提交，并且会中断当前正在执行的任务、放弃任务队列中已有的任务。
+
+TIDYING：整理状态，所有的任务都执行完毕后（也包括任务队列中的任务执行完），当前线程池中的活动线程数降为 0 时的状态。到此状态之后，会调用线程池的 terminated() 方法。
+
+TERMINATED：销毁状态，当执行完线程池的 terminated() 方法之后就会变为此状态。
+
+链接：https://juejin.cn/post/7078126482316328990
+来源：稀土掘金
+
+![image-20220926212611594](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220926212611594.png)
+
+
+
+6、对于以下说法，哪些是正确的？
+
+如果package语句存在，则必须出现在源文件的非空白首行【正确】
+
+如果import语句存在，则必须出现在源文件的非空白首行【import是写在package下】
+
+如果main()方法存在，则必须出现在源文件的非空白首行【放在任意类的任意一个地方】
+
+如果在原文件中声明了一个public接口，则其名称必须和源文件名一致【正确】
+
+
+
+7、关于synchronized和 java.util.concurrent.locks.Lock说法正确的是
+
+Lock能完成synchronized所实现的所有功能【正确】
+
+Lock有比synchronized更精确的线程语义和更好的性能【正确】
+
+synchronized会自动释放锁，而Lock一定要求程序员手工释放finally【正确】
+
+synchronized和Lock释放锁必须在finally从句中释放【仅Lock】
+
+
+
+8、javax.Servlet的包中，属于类的是？
+
+Servlet【接口】
+
+GenericServlet【GenericServlet是Servlet**接口的实现类**，但它是一个抽象类，唯一的抽象方法是service()方法】
+
+ServletException【类】
+
+ServletContext【ServletContext接口是一个Servlet的环境对象，Servlet引擎通过该对象向Servlet提供环境信息。】
+
+
+
+9、线程阻塞方式？
+
+**融合join**【让一个线程等待另一个线程完成才继续执行。如A线程执行体中调用B线程的join()方法，则A线程被阻塞，直到B线程执行完为止，A才能继续执行】
+
+**睡眠sleep**【让当前的正在执行的线程暂停指定的时间，并进入阻塞状态。】
+
+**让步yield**【从运行状态转换到就绪状态，CPU从就绪状态线程队列中只会选择与该线程优先级相同或更高的线程执行。】
+
+**等待wait**【wait用于Object对象，发出wait后。可以通过notify和notifyAll来唤醒线程。但是只能用于synchronized同步块中】
+
+sleep不出让系统资源，wait是进入线程等待池等待，让出系统资源，其他线程可以占用CPU，一般wait不会加时间限制。
+]]></description></item><item><title>【已解决】git reset命令误删本地文件怎么恢复</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/25/16727549.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 25 Sep 2022 03:39:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/25/16727549.html</guid><description><![CDATA[<p><span style="font-size: 18px;">执行<strong> git &nbsp;reflog&nbsp;</strong>命令可以看到曾经执行过的操作，还有版本序号。</span></p>
+<p><span style="font-size: 18px;"><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220925113737109-1484098810.png" alt="" loading="lazy" /></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;">执行&nbsp;<strong>git&nbsp;reset --hard HEAD@{【填那个序号】}&nbsp;</strong>就可以恢复本地删除的文件了！</span></p>
+<p>&nbsp;</p>]]></description></item><item><title>python爬虫爬取国家科技报告服务系统数据，共计30余万条</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725576.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sat, 24 Sep 2022 06:14:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725576.html</guid><description><![CDATA[# python爬虫爬取国家科技报告服务系统数据，共计30余万条
+
+按学科分类【中图分类】
+
+**共计三十余万条科技报告数据**
+
+爬取的网址：https://www.nstrs.cn/kjbg/navigation
+
+![image-20220924133206488](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924133206488.png)
+
+**！！！**
+
+如果要完整地跑起来代码，需要先看一下我的这篇博客，完成**IP代理池**的相关配置：
+
+https://www.cnblogs.com/rainbow-1/p/16725503.html
+
+**！！！**
+
+-------
+
+**分析网站数据来源可以发现，是使用的post方式的请求，且参数列表如下：**
+
+![image-20220924133431087](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924133431087.png)
+
+![image-20220924133440507](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924133440507.png)
+
+
+
+**那么我们需要做的就是模拟这个请求，同时需要带上我们自定义的参数，这里面需要的其实一个就是页码pageNo，另一个是分类，如下图：**
+
+![image-20220924133550270](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924133550270.png)
+
+```jaon
+parms = {
+            "pageNo": i,
+            "competentOrg": "",
+            "jihuaId": "",
+            "fieldCode": "",
+            "classification": name,   # 修改
+            "kjbgRegion": "",
+            "kjbgType": "",
+            "grade": ""
+        }
+        
+```
+
+
+
+> 简单说一下我都做了什么，首先是配置是**IP代理池**，存在redis数据库，每次【设置了随机延迟时间】随机取出一个进行访问。
+
+> 其次使用了随机**UserAgent**请求头。
+>
+> 爬虫是直接使用post请求，携带参数抓获返回的json数据做解析并存入mysql数据库。
+
+
+
+-------
+
+
+
+下面是代码：
+
+## 爬虫方法report_crawler
+
+也就是你需要直接运行的方法。
+
+我这部分是从"社会科学总论"这个分类开始爬的，前面那些如果需要爬，就直接改pageList页码列表、nameList名称列表、tableList数据库表列表就可以【切记是一 一对应的！】
+
+```python
+import json
+import random
+from time import sleep
+
+import requests
+from fake_useragent import UserAgent
+
+from report_data.into_mysql import insert_mysql
+from report_data.ip_redis import my_redis
+
+"""
+post方法参数
+params:字典或字节序列，作为参数增加到链接中
+data:字典，字节序列或文件对象，作为请求的内容
+json:JSON格式的数据，作为Request的内容
+headers：字典，HTTP定制头（模拟浏览器进行访问）
+cookies：字典或CpplieJar,Request中的cookie
+auth:元祖，支持HTTP认证功能
+files：字典类型，传输文件
+timeout:设定超时时间，秒为单位
+proxies:字典类型，设定访问代理服务器，可以增加登陆认证
+allow_redirects:True//False，默认为True，重定向开关
+stream:True/False,默认为True,获取内容立即下载开关
+verify:True/False,默认为True，认证SSL证书开关
+cert：本地SSL证书路径
+"""
+# 页码pageList
+# 分类名称参数列表 nameList
+#
+def get_report(page,name,tableName):
+    # ------------------------------ 修改页码
+    for i in range(1,page):
+        print("---------------------------------")
+        ua = UserAgent()
+        print("【随机 UserAgent：】" + ua.random)  # 随机产生headers
+        temp_headers = ua.random
+        # --------------------------------------
+        test_redis = my_redis()
+        temp_proxy = test_redis.get_ip()
+        print("【随机 IP：】" + temp_proxy)
+        url="https://www.nstrs.cn/rest/kjbg/wfKjbg/list"
+        # url2 = "https://www.nstrs.cn/rest/kjbg/wfKjbg/list?pageNo=2&competentOrg=&jihuaId=&fieldCode=&classification=医药、卫生&kjbgRegion=&kjbgType=&grade="
+        parms = {
+            "pageNo": i,
+            "competentOrg": "",
+            "jihuaId": "",
+            "fieldCode": "",
+            "classification": name,   # 修改
+            "kjbgRegion": "",
+            "kjbgType": "",
+            "grade": ""
+        }
+
+        other_parms={
+                'User-Agent': temp_headers,
+                'https': 'http://'+temp_proxy,
+                'http': 'http://'+temp_proxy
+            }
+        sleeptime = random.uniform(0, 0.7)
+        sleep(sleeptime)
+        # print(url)
+        response = requests.post(url, parms, other_parms)
+        response.encoding='utf8'
+        print(response.text+'\n')
+        response_data = response.text   # 返回数据
+        json_data = json.loads(response_data)   # 封装字典
+        res_list_data = json_data['RESULT']['list']   # 一页 长度为10的list [{ },{ },{ } ... { }] len=10
+
+        """
+        重新构建一个 list [{ }]
+        """
+        for item in res_list_data:
+            insert_mysql(item,name,tableName)
+    return
+
+if __name__ == '__main__':
+    # 页码 pageList []
+    pageList = [788,779,656,584,573,510,440,361,
+                315,226,224,220,155,112,112,
+                87,53,50,39,33,18,12,5,4,2,2,2,2]
+
+    nameList = [
+        "社会科学总论",
+        "环境科学、安全科学",
+        "建筑科学",
+        "轻工业、手工业",
+        "数理科学与化学",
+        "能源与动力工程",
+        "电工技术",
+        "矿业工程",
+        "经济",
+        "文化、科学、教育、体育",
+        "水利工程",
+        "交通运输",
+        "自然科学总论",
+        "石油、天然气工业",
+        "冶金工业",
+        "武器工业",
+        "航空、航天",
+        "哲学、宗教",
+        "原子能技术",
+        "历史、地理",
+        "政治、法律",
+        "艺术",
+        "语言、文字",
+        "军事",
+        "综合性图书",
+        "文学",
+        "语言、文学",
+        "mks主义、ln主义、mzd思想、dxp理论"
+    ]
+
+    tableList = ["tech_c","tech_x","tech_tu","tech_ts","tech_o","tech_tk","tech_tm",
+                 "tech_td","tech_f","tech_g","tech_tv","tech_u",
+                 "tech_n","tech_te","tech_tf","tech_tj","tech_v","tech_b","tech_tl",
+                 "tech_k","tech_d","tech_j","tech_h","tech_e","tech_z","tech_i","tech_i","tech_a"]
+    for i in range(0,len(tableList)):
+        get_report(pageList[i],nameList[i],tableList[i])
+```
+
+## 目录方法category
+
+返回一个中图分类号对应的名称
+
+```python
+# 用以返回中图分类号
+def get_code(key):
+    code_dict = {
+        "医药、卫生":"R",
+        "一般工业技术":"TB",
+        "生物科学":"Q",
+        "数理科学和化学":"O",
+        "农业科学":"S",
+        "工业技术":"T",
+        "自动化技术、计算机技术":"TP",
+        "天文学、地球科学":"P",
+        "无线电电子学、电信技术":"TN",
+        "金属学与金属工艺":"TG",
+        "机械、仪表工业":"TH",
+        "化学工业":"TQ",
+        "社会科学总论":"C",
+        "环境科学、安全科学":"X",
+        "建筑科学":"TU",
+        "轻工业、手工业":"TS",
+        "数理科学与化学":"O",
+        "能源与动力工程":"TK",
+        "电工技术":"TM",
+        "矿业工程":"TD",
+        "经济":"F",
+        "文化、科学、教育、体育":"G",
+        "水利工程":"TV",
+        "交通运输":"U",
+        "自然科学总论":"N",
+        "石油、天然气工业":"TE",
+        "冶金工业":"TF",
+        "武器工业":"TJ",
+        "航空、航天":"V",
+        "哲学、宗教":"B",
+        "原子能技术":"TL",
+        "历史、地理":"K",
+        "政治、法律":"D",
+        "艺术":"J",
+        "语言、文字":"H",
+        "军事":"E",
+        "综合性图书":"Z",
+        "文学":"I",
+        "语言、文学":"I",
+        "mks主义、ln主义、mzd思想、dxp理论":"A",
+    }
+    res = code_dict.get(key)
+    return res
+if __name__ == '__main__':
+    data = get_code("工业技术")
+    print(data)
+```
+
+![image-20220924134049888](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924134049888.png)
+
+## user_agent方法
+
+返回随机headers
+
+```python
+from fake_useragent import UserAgent   # 下载：pip install fake-useragent
+import requests
+
+ua = UserAgent()        # 实例化，需要联网但是网站不太稳定-可能耗时会长一些
+print(ua.random)  # 随机产生
+headers = {
+    'User-Agent': ua.random    # 伪装
+    }
+
+# 请求
+if __name__ == '__main__':
+    url = 'https://www.baidu.com/'
+    response = requests.get(url, headers=headers ,proxies={"http":"117.136.27.43"})
+    print(response.status_code)
+```
+
+## ip_redis方法
+
+从redis数据库取出一个ip并返回（前3000个随机一个，降序排列）
+
+```python
+import random
+
+import redis
+
+class my_redis:
+
+    def get_ip(self):
+        r = redis.Redis(host='127.0.0.1', port=6379, db=0,decode_responses=True)
+        my_redis_data = r.zrange("proxies:universal",1,3000,True)
+        return random.choice(my_redis_data)
+        # print(len(my_redis_data))
+
+if __name__ == '__main__':
+    test_redis=my_redis()
+    data=test_redis.get_ip()
+    print(data)
+
+```
+
+## into_mysql方法
+
+存入mysql数据库的方法
+
+```python 
+#连接数据库  获取游标
+import pymysql
+from report_data.category import get_code
+
+def get_conn():
+    """
+    :return: 连接，游标
+    """
+    # 创建连接
+    conn = pymysql.connect(host="127.0.0.1",
+                    user="root",
+                    password="reliable",
+                    db="tech",
+                    charset="utf8mb4")
+    # 创建游标
+    cursor = conn.cursor()  # 执行完毕返回的结果集默认以元组显示
+    if ((conn != None) & (cursor != None)):
+        print("数据库连接成功 ...")
+    else:
+        print("数据库连接失败！")
+    return conn, cursor
+#关闭数据库连接和游标
+def close_conn(conn, cursor):
+    if cursor:
+        cursor.close()
+    if conn:
+        conn.close()
+    return 1
+# 数据表名
+# 中图分类名
+def insert_mysql(data,name,tableName):
+    print(data['title'])
+
+    id=data['id']
+    title=data['title']
+    alternativeTitle=data['alternativeTitle']
+    creator=data['creator']
+    abstractEn=data['abstractEn']
+    keywordsEn=data['keywordsEn']
+    abstractCn=data['abstractCn']
+    keywordsCn=data['keywordsCn']
+    creatOrorganization=data['creatOrorganization']
+    prepareOrganization=data['prepareOrganization']
+    publicDate=data['publicDate']
+    createTime=data['createTime']
+    projectName=data['projectName']
+    competentOrg=data['competentOrg']
+    projectSubjectName=data['projectSubjectName']
+    projectSubjectId=data['projectSubjectId']
+    #------------------------------
+    classification=name   # 修改
+    #------------------------------
+    classificationCode=get_code(classification)   # 需要调用get_code(name)获取
+    responsiblePerson = data['responsiblePerson']
+    supportChannel = data['supportChannel']
+    undertakeOrg = data['undertakeOrg']
+    kjbgSource = data['kjbgSource']
+    proposalDate = data['proposalDate']
+    submittedDate = data['submittedDate']
+    kjbgRegion = data['kjbgRegion']
+    collectionDate = data['collectionDate']
+    collectionNumber = data['collectionNumber']
+    fieldCode = data['fieldCode']
+    fieldId = data['fieldId']
+    kjbgQWAddress = data['kjbgQWAddress']
+    isNewRecord = data['isNewRecord']
+    sourceUrl = "https://www.nstrs.cn/kjbg/detail?id="+id          # 需要自己拼 https://www.nstrs.cn/kjbg/detail?id=
+
+    conn, cursor = get_conn()
+    # ------------------------------ 修改表名
+    sql = "insert into `"+tableName+"` (id,title,alternativeTitle,creator,abstractEn," \
+          "keywordsEn,abstractCn,keywordsCn,creatOrorganization,prepareOrganization," \
+          "publicDate,createTime,projectName,competentOrg,projectSubjectName," \
+          "projectSubjectId,classification,classificationCode,responsiblePerson,supportChannel," \
+          "undertakeOrg,kjbgSource,proposalDate,submittedDate,kjbgRegion," \
+          "collectionDate,collectionNumber,fieldCode,fieldId,kjbgQWAddress," \
+          "isNewRecord,sourceUrl) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" \
+          ",%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+    try:
+        try:
+            cursor.execute(sql, [id,title,alternativeTitle,creator,abstractEn,
+                      keywordsEn,abstractCn,keywordsCn,creatOrorganization,prepareOrganization,
+                      publicDate,createTime,projectName,competentOrg,projectSubjectName,
+                      projectSubjectId,classification,classificationCode,responsiblePerson,supportChannel,
+                      undertakeOrg,kjbgSource,proposalDate,submittedDate,kjbgRegion,
+                      collectionDate,collectionNumber,fieldCode,fieldId,kjbgQWAddress,isNewRecord,sourceUrl])
+        except pymysql.err.IntegrityError:
+            print("主键冲突！")
+        conn.commit()  # 提交事务 update delete insert操作
+    except pymysql.err.IntegrityError:
+        print("error！")
+    finally:
+        close_conn(conn, cursor)
+    return 1
+
+if __name__ == '__main__':
+    print()
+```
+
+**最终爬取三十多万条科技报告，按中图分类建立了mysql数据表，分表存储不同分类的数据。**
+
+【其中的数理科学和化学，数理科学与化学这两个分类做了合并，合并为数理科学和化学类，属O】
+
+【语言、文学和文学做了合并，同属 I 文学类】
+
+![image-20220924141540116](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924141540116.png)
+
+![image-20220924134740910](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924134740910.png)
+
+![image-20220924134754905](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924134754905.png)
+
+附几张结果图：
+
+![image-20220924134549342](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924134549342.png)
+
+最后说一下数据表结构：
+
+```sql
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : reliable
+Source Server Version : 80013
+Source Host           : localhost:3306
+Source Database       : tech
+
+Target Server Type    : MYSQL
+Target Server Version : 80013
+File Encoding         : 65001
+
+Date: 2022-09-24 13:54:05
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for tech_o
+-- ----------------------------
+DROP TABLE IF EXISTS `tech_o`;
+CREATE TABLE `tech_o` (
+  `id` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL COMMENT 'ID',
+  `title` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '中文标题',
+  `alternativeTitle` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '英文标题',
+  `creator` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '作者',
+  `abstractEn` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '英文摘要',
+  `keywordsEn` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '英文关键字',
+  `abstractCn` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '中文摘要',
+  `keywordsCn` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '中文关键字',
+  `creatOrorganization` text CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci COMMENT '创建者组织',
+  `prepareOrganization` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '预备组织',
+  `publicDate` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '公布时间',
+  `createTime` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '编制时间',
+  `projectName` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '项目名称',
+  `competentOrg` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '项目地址',
+  `projectSubjectName` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '项目主题名称',
+  `projectSubjectId` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '项目主题ID',
+  `classification` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '中图分类名称',
+  `classificationCode` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '中图分类号',
+  `responsiblePerson` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '负责人',
+  `supportChannel` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '主办方',
+  `undertakeOrg` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '承办方',
+  `kjbgSource` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '科技报告来源单位',
+  `proposalDate` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '提议时间',
+  `submittedDate` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '提交时间',
+  `kjbgRegion` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '科技报告所属行政区划',
+  `collectionDate` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '收集时间',
+  `collectionNumber` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '收集编号',
+  `fieldCode` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '领域代码',
+  `fieldId` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '领域ID',
+  `kjbgQWAddress` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '报告链接',
+  `isNewRecord` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '是否新记录',
+  `sourceUrl` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL COMMENT '国家科技报告服务系统收录链接',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+```
+
+![image-20220924135444302](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924135444302.png)
+
+![image-20220924135511907](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924135511907.png)
+
+
+后续数据处理参考：科技报告数据语料处理（关键词、中图分类名称）【https://www.cnblogs.com/rainbow-1/p/16801120.html】
+**如果需要获取这部分数据，可关注我的微信公众号【靠谱杨的挨踢生活】，回复 “科技报告” 获取下载链接。**
+
+![image-20220924140342291](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924140342291.png)]]></description></item><item><title>python爬虫配置IP代理池（ProxyPool）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725503.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sat, 24 Sep 2022 05:30:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725503.html</guid><description><![CDATA[# python爬虫配置IP代理池（ProxyPool）
+
+ProxyPool 项目下载：https://github.com/Python3WebSpider/ProxyPool.git
+
+关注我的公众号【靠谱杨的挨踢生活】回复**ProxyPool **可以获取下载链接。
+
+## 1、下载之后打开setting文件修改redis相关配置。
+
+![image-20220924131533315](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924131533315.png)
+
+![image-20220924131603070](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924131603070.png)
+
+## 2、之后开启本机redis服务，就可以直接运行run文件
+
+​	  可以下载一个 Redis Desktop Manager redis可视化工具，关注我的公众号【小杨的挨踢IT生活】回复**redis**可以获取下载链接（文章末尾有公众号二维码），也可以自行百度下载。
+
+![image-20220924132435133](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924132435133.png)
+
+![image-20220924132450103](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924132450103.png)
+
+## 3、使用redis中的IP
+
+```python
+import random
+
+import redis
+
+class my_redis:
+
+    def get_ip(self):
+        r = redis.Redis(host='127.0.0.1', port=6379, db=0,decode_responses=True)
+        my_redis_data = r.zrange("proxies:universal",1,3000,True)
+        return random.choice(my_redis_data)
+        # print(len(my_redis_data))
+
+if __name__ == '__main__':
+    test_redis=my_redis()
+    data=test_redis.get_ip()
+    print(data)
+```
+
+![image-20220924132834606](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220924132834606.png)]]></description></item><item><title>python爬虫配置随机请求头headers伪装User-Agent</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725473.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sat, 24 Sep 2022 05:13:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/24/16725473.html</guid><description><![CDATA[# python爬虫随机headers伪装fake_useragent
+
+fake_useragent 库 
+
+调用方法**ua.random**可以随机返回一个headers(User-Agent)
+
+```python
+from fake_useragent import UserAgent   # 下载：pip install fake-useragent
+import requests
+
+ua = UserAgent()        # 实例化，需要联网但是网站不太稳定-可能耗时会长一些
+print(ua.random)  # 随机产生
+headers = {
+    'User-Agent': ua.random    # 伪装
+    }
+
+# 请求
+if __name__ == '__main__':
+    url = 'https://www.baidu.com/'
+    response = requests.get(url, headers=headers ,proxies={"http":"117.136.27.43"})
+    print(response.status_code)
+```]]></description></item><item><title>【已解决】Windows环境下redis启动失败</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/21/16714460.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Wed, 21 Sep 2022 01:28:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/21/16714460.html</guid><description><![CDATA[<p>在redis安装目录下打开cmd窗口：</p>
+<p>依次输入：</p>
+<p><span style="font-size: 16px;">redis-cli.exe</span></p>
+<p><span style="font-size: 16px;">shutdown</span></p>
+<p><span style="font-size: 16px;">exit</span></p>
+<p><span style="font-size: 16px;">redis-server.exe redis.windows.conf</span></p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220921092109431-2060856128.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p>ps：启动失败可能是内存不足导致的，可以直接使用&nbsp;<span class="pln">redis<span class="pun">-<span class="pln">server redis<span class="pun">.<span class="pln">windows<span class="pun">.<span class="pln">conf&nbsp;<span class="pun">--<span class="pln">maxmemory&nbsp;<span class="lit">200m</span></span></span></span></span></span></span></span></span></span></p>]]></description></item><item><title>Java实现栈</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690493.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 13 Sep 2022 11:39:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690493.html</guid><description><![CDATA[package algorithm;
+
+import java.util.Arrays;
+import java.util.Iterator;
+
+/**
+ * @author Administrator
+ * @date 2022-09-12 16:38
+ * 数组栈
+ */
+public class MyArrayStack<E> implements Iterable<E> {
+	// 定义一个数组
+	private Object[] elementData;
+	// 顶部的索引
+	private int topIndex;
+	// 构造方法确定栈的长度
+	public MyArrayStack(int size) {
+		this.elementData = new Object[size];
+	}
+
+	/**
+	 * 定义迭代器
+	 * @return
+	 */
+	@Override
+	public Iterator<E> iterator() {
+		return new MyArrayStackIter();
+	}
+	class MyArrayStackIter implements Iterator<E>{
+		@Override
+		public boolean hasNext() {
+			return topIndex != elementData.length;
+		}
+		@Override
+		public E next() {
+			return pop();
+		}
+		@Override
+		public void remove() {
+			pop();
+		}
+	}
+	public boolean push(E element){
+		// 判断扩容两倍
+		if(topIndex >= elementData.length){
+			elementData = Arrays.copyOf(elementData,elementData.length << 1);
+		}
+		elementData[topIndex++] = element;
+		return true;
+	}
+	// 删除并出栈 是否删除就看topIndex本身的大小是否改变
+	public E pop(){
+		if(topIndex <= 0){
+			throw new RuntimeException("栈为空");
+		}
+		return (E) elementData[--topIndex];
+	}
+	// 不删除出栈 栈顶元素
+	public E peek(){
+		if(topIndex <= 0){
+			throw new RuntimeException("栈为空");
+		}
+		return (E) elementData[topIndex - 1];
+	}
+	public static void main(String[] args) {
+		MyArrayStack myArrayStack = new MyArrayStack(5);
+		myArrayStack.push("11");
+		myArrayStack.push("22");
+		myArrayStack.push("33");
+		System.out.println("-----------");
+		System.out.println(myArrayStack.pop());
+		System.out.println(myArrayStack.pop());
+		System.out.println(myArrayStack.pop());
+		System.out.println(myArrayStack.pop());
+//		Iterator iterator = myArrayStack.iterator();
+//		while (iterator.hasNext()){
+//			System.out.println(iterator.next());
+//		}
+	}
+}]]></description></item><item><title>Java实现两种队列（数组和链表）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690496.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 13 Sep 2022 11:39:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690496.html</guid><description><![CDATA[package algorithm;
+
+/**
+ * @author Administrator
+ * @date 2022-09-13 17:50
+ */
+public class QueueLinked<E>{
+
+	private static class Node<E>{
+		E item;
+		Node<E> next;
+
+		public Node(E item, Node<E> next) {
+			this.item = item;
+			this.next = next;
+		}
+	}
+
+	private Node<E> head;   // 头指针
+	private Node<E> tail;   // 尾指针
+
+	public boolean enQueue (E e)
+	{
+		Node<E> newNode = new Node<>(e,null);
+		// 尾部入队
+		if (tail == null){
+			// 初始化 尾指向新加入的元素
+			tail = newNode;
+			// 头指向尾
+			head = tail;
+			return true;
+		}
+		else{
+			// 如果初始化已经完成了 那么之后的元素就从尾部开始往后指
+			tail.next = newNode;
+			tail = newNode;     // 尾指针的next要指向新结点 同时尾指针本身也要指向新结点
+		}
+		return true;
+	}
+	public E deQueue (){
+		if (head == null)
+		{
+			throw new RuntimeException("队列为空！");
+		}
+		E item  = head.item;
+		head = head.next;
+		return item;
+	}
+
+	public static void main(String[] args) {
+		QueueLinked myLinkedQueue = new QueueLinked();
+		myLinkedQueue.enQueue("11");
+		myLinkedQueue.enQueue("22");
+
+		System.out.println(myLinkedQueue.deQueue());
+		System.out.println(myLinkedQueue.deQueue());
+		System.out.println(myLinkedQueue.deQueue());
+	}
+}]]></description></item><item><title>Java实现链表</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690489.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 13 Sep 2022 11:38:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690489.html</guid><description><![CDATA[# 3、链表
+
+MyLinkedList 有一个头指针，一个尾指针，还有链表长度size
+
+内有两个类，一个是实现了Iterator接口的迭代器类，另一个是Node类，其中Node数据结构中，==除了数据，还要有前一个Node和后一个Node变量。
+
+`双向循环链表` 
+
+代码如下：
+
+```java
+import java.util.Iterator;
+
+/**
+ * 双向循环链表
+ * @author Administrator
+ * @date 2022-09-11 22:57
+ */
+public class MyLinkedList<E> implements Iterable<E>{
+	private Node<E> last;   // 尾指针
+	private Node<E> first;  // 头指针
+	private int size;       // 链表长度 每次插入要 +1
+
+
+	@Override
+	public Iterator<E> iterator() {
+		return new MyIter() ;   // 返回一个迭代器
+	}
+
+	/**
+	 * 实现Iterator接口的迭代器类
+	 */
+	class MyIter implements Iterator<E>{
+		int index = 0;      // 从0开始遍历
+		@Override
+		public boolean hasNext() {
+			return index != size;  //如果为真 就是还有下一个
+		}
+
+		@Override
+		public E next() {
+			return get(index++);    //　通过get方法得到链表的item值
+		}
+
+		@Override
+		public void remove() {
+
+		}
+	}
+
+	/**
+	 * 节点类
+	 * @param <E>
+	 */
+
+	private static class Node<E>{
+		E item;         // 元素值
+		Node<E> prev;   // 前一个Node
+		Node<E> next;   // 后一个Node
+		public Node(Node<E> prev,E item,Node<E> next){
+			this.item=item;
+			this.prev=prev;
+			this.next=next;
+		}
+	}
+
+	public boolean addLast (E element)
+	{
+		// 声明一个不变的尾结点
+		final Node<E> l = last;
+		// 把item装入一个Node里 下面开始插入
+		Node<E> newNode = new Node<E>(l,element,null);
+		// 先把尾结点指向新插入的结点
+		last = newNode;   // 新插进来的就是最后一个
+		// 如果是这是第一个元素 那么头尾结点其实都是这个新结点
+		if (l == null)
+		{
+			first = newNode;     // 把这个新结点赋值给头结点
+		}else{
+			l.next = newNode;   // 如果不是新的 那么就正常指向下一个
+		}
+		size ++;            // 链表长度 +1
+		return true;
+	}
+
+	public E set (int index , E element)
+	{
+		// 先判断index在哪
+		Node<E> x = findNode(index);
+		E oldValue = x.item;
+		x.item = element;
+		return oldValue;        // 返回修改前的item值
+	}
+
+	/**
+	 * 找到指定索引上的Node并返回
+	 * @param index
+	 * @return
+	 */
+	private Node<E> findNode(int index){
+		if(index < (size >> 1) )    // 如果index索引 小于链表总长的一半 那就从前往后找 直到index位置
+		{
+			Node<E> x = first;
+			for(int i = 0 ; i < index; i++){
+				x = first.next;
+			}
+			return x;
+		}
+		// 如果index索引 大于链表总长的一半 那就从后往前找 直到index位置
+		Node<E> x = last;
+		for(int i = size-1 ;i > index; i--){
+			x = last.prev;
+		}
+		return x;
+	}
+
+	/**
+	 * 获得值
+	 * @param index
+	 * @return
+	 */
+	public E get(int index)
+	{
+		
+		return findNode(index).item;
+	}
+
+	public static void main(String[] args) {
+		MyLinkedList<String> myLinkedList = new MyLinkedList<String>();
+		myLinkedList.addLast("aaa1");
+		myLinkedList.addLast("aaa2");
+		myLinkedList.addLast("aaa3");
+		myLinkedList.addLast("aaa4");
+		myLinkedList.addLast("aaa5");
+		myLinkedList.set(0,"set");
+		myLinkedList.forEach (s -> {
+			System.out.println(s);
+		});
+
+		Iterator myIter = myLinkedList.iterator();
+		while (myIter.hasNext()){
+			System.out.println(myIter.next());
+		}
+	}
+}
+```
+
+![image-20220912114731965](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220912114731965.png)
+
+## 3.1、forEach
+
+forEach( )方法是java8新增的一个遍历方法，它被定义在`java.lang.Iterable` 接口中。
+
+List、Map、Set、Stream等接口都实现了这个方法，所以可以直接使用这些类的实例化对象调用forEach方法遍历元素。
+
+![image-20220912195524795](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220912195524795.png)
+
+**比如遍历hashMap可以这么写：**
+
+```java
+ items.forEach((k,v)->System.out.println("Item : " + k + " Count : " + v));
+```
+
+**遍历List可以这么写：**
+
+```java
+myList.forEach(s -> System.out.println(s)); 
+```
+]]></description></item><item><title> Java实现哈希表</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690484.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 13 Sep 2022 11:37:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690484.html</guid><description><![CDATA[# 2、哈希表
+
+## 2.1、哈希冲突
+
+冲突位置，把数据构建为链表结构。
+
+**装载因子=哈希表中的元素个数 / （散列表）哈希表的长度**
+
+装载因子越大，说明链表越长，性能就越低，那么哈希表就需要扩容，把数据迁移到新的哈希表中！
+
+数据会经过两层比较：
+
+一个是对哈希值的比较 使用hashcode（）方法
+
+另一个是对key值的比较，使用equals（）方法
+
+**如果两个对象相同，hashcode一定相同。**
+**但是hashcode相同，两个对象不一定相同。**
+
+>  ==哈希冲突是指，不同的key经由哈希函数，映射到了相同的位置上，造成的冲突。==
+
+```java
+/**
+ * @author Administrator
+ * @date 2022-09-09 14:28
+ */
+public class MyHashTable<K,V> {
+	private Node<K, V>[] table;    // 实例化一个Node数组 Node数组本身又是个链表
+
+	private static class Node<K,V>{
+		final int hash; //hash值
+		final K key;    
+		V value;
+		Node<K,V> next; //下一个节点 kv对
+
+		public Node(int hash, K key, V value, Node<K, V> next) {
+			this.hash = hash;
+			this.key = key;
+			this.value = value;
+			this.next = next;
+		}
+	}
+
+	public MyHashTable(int capacity) {
+		table = (Node<K,V>[]) new Node[capacity];
+	}
+	public void put (K key,V value){
+		// 1. 计算哈希值
+		int hash = hash(key);
+		// 2. 计算数组的索引值
+		int i = (table.length-1) & hash;
+		// 3. 把当前的kv对 存到Node里
+		Node<K,V> node = new Node (hash,key,value,null);
+		// 4. 根据索引下标 拿到目前table里的数据 然后进行对比
+		Node<K,V> kvNode = table[i];
+
+		if(kvNode == null ){
+			// 如果为空 则说明当前位置没有数据 可以直接存
+			table[i] = node;
+			return;
+		}
+		// 如果有值 就去看 key是否一样
+		if(kvNode.key.equals(key))
+		{
+			//  如果一样 就覆盖
+			kvNode.value = value;
+		}
+		else{
+			// 如果不一样就用链表存起来
+			kvNode.next = node;
+		}
+	}
+	public V get (K key){
+		int hash = hash(key);
+		int i = (table.length - 1 ) & hash;
+		Node<K,V> node = table[i];
+		if(node == null)
+		{
+			return null;
+		}
+		Node<K,V> newNode = node;      // 做条件判断
+		// 如果存在这个值 而且存在hash冲突 那就需要去循环这个链表 直到找到那个key
+		while (node.next != null)
+		{
+			if (newNode.key.equals(key)){
+				// 这就说明找到了 直接跳出循环
+				break;
+			}else{
+				newNode=newNode.next;   // 如果找不到key 就一直往链表的后面找
+			}
+		}
+		return newNode.value;       // 最后返回这个值
+	}
+
+	/**
+	 * 计算哈希值
+	 * @param key
+	 * @return
+	 */
+	static final int hash(Object key){
+		int h;
+		return (key == null)? 0 : (h = key.hashCode()) ^ (h >>> 16);
+	}
+
+	public static void main(String[] args) {
+		MyHashTable<String,String> hashTable = new MyHashTable<String, String>(5);
+		hashTable.put("key1","ycw");
+		hashTable.put("key2","ycw2");
+		hashTable.put("key1","ycw3");
+		System.out.println(hashTable.get("key1"));
+		System.out.println(hashTable.get("key2"));
+	}
+}
+```
+
+## 2.2、hashmap
+
+### 扩容
+
+​	在填装因子(loaderFactor) > 0.75 时进行扩容
+
+1. 创建新的数组，长度newLength是原来的2倍（将哈希表的存储空间增加为原来的两倍）。
+2. 遍历旧列表中取出元素的key之后，重新进行hash计算 newndex = (newLength- 1) & hash。
+3. 重新插入元素。]]></description></item><item><title>Java实现动态数组【数据结构与算法】</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690478.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 13 Sep 2022 11:36:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/13/16690478.html</guid><description><![CDATA[# 1、数组
+
+类型固定、长度固定
+
+连续的内存空间
+
+顺序存储、随机读取
+
+查询快、新增删除慢。**最好初始化的时候就指定数组大小。**这样就可以避免一定的数组扩容出现的内存消耗。
+
+-----------
+
+```java
+import java.util.Arrays;
+import java.util.Iterator;
+
+/**
+ * @author Administrator
+ * @date 2022-09-11 16:56
+ * 实现一个数组
+ */
+public class MyArray<E> implements Iterable<E> {
+
+	private Object[] elementData;   // Object存放数据
+
+	public MyArray(int capacity)    // 构造方法 初始化容量大小
+	{
+		// 指定长度 初始化数组 new 出一块空间
+		elementData = new Object[capacity];
+	}
+
+	/**
+	 * 直接添加新元素
+	 * @param element
+	 * @return
+	 */
+	public boolean add (E element)
+	{
+		int size = elementData.length;  // 获取当前数组大小
+		int newCapacity = size+1;   // 扩容+1
+		// 此处发生性能消耗，新增数据时，需要扩容，整体数据需要复制迁移，实际上arraylist是1.5扩容！
+		elementData = Arrays.copyOf(elementData,newCapacity); // 把旧的空间复制一份到新的空间并+1
+		elementData[size]=element;
+		return true;
+	}
+
+	/**
+	 * set 方法 根据索引位置新增元素
+	 * @param index
+	 * @param element
+	 * @return
+	 */
+	public E set (int index ,E element)
+	{
+		E oldValue = (E) elementData[index];    // 获取旧位置的元素值
+		elementData[index] = element;           // 新值覆盖旧值
+		return oldValue;          // 返回旧值
+
+	}
+	public E get (int index)
+	{
+		return (E) elementData[index]; // 返回对应索引位置的值
+	}
+
+	@Override
+	public Iterator<E> iterator(){
+		return new MyIterator();
+	}
+
+	class MyIterator implements Iterator<E>{
+		int index = 0;
+		@Override
+		public boolean hasNext() {
+			return index != elementData.length;
+		}
+
+		@Override
+		public E next() {
+			return (E) elementData[index++];    // 返回下一个元素值并+1
+		}
+
+		@Override
+		public void remove() {
+			//
+		}
+	}
+
+	public static void main(String[] args) {
+		MyArray<String> myArray= new MyArray<String>(10);   // 初始化一个容量为10的数组
+		myArray.set(0,"q");
+		myArray.set(2,"w");
+		myArray.add("新增");
+		Iterator<String> iterator = myArray.iterator();     // 使用迭代器
+		while (iterator.hasNext()){
+			System.out.println(iterator.next());
+		}
+	}
+}
+```
+
+![image-20220911183429296](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20220911183429296.png)
+
+## 1.1、关于arraylist初始容量和扩容
+
+ArrayList 新增元素的方法有两种，一种是直接将元素加到数组的末尾，另外一种是添加元素到任意位置。
+
+arraylist默认构造器，在不指定大小的时候默认容量为 ==10==。
+
+在超出容量之后，每次扩容为==当前容量大小的1.5倍+1==。
+
+## 1.2、关于迭代器
+
+集合的顶层接口`Collection`继承`Iterable`接口。在`Iterable接口`中有一个`Iterator方法`，它返回一个`Itertator对象`。
+
+```java
+public interface Iterable<T> {
+    /**
+     * Returns an iterator over elements of type {@code T}.
+     *
+     * @return an Iterator.
+     */
+    Iterator<T> iterator();
+}
+```
+
+```java
+public interface Iterator<E> {
+    boolean hasNext();
+    
+    E next();
+    
+    default void remove() {
+        throw new UnsupportedOperationException("remove");
+    }
+}
+```
+
+迭代器遍历中**调用集合revome()方法触发异常** java.util.ConcurrentModificationException 集合中并发修改的异常.
+
+因为迭代器只负责遍历，它使用的仍然是集合本身的数据，在List集合实现的时候**数组的长度size会因为remove发生变化的，同时元素的索引值也会因为remove( )方法的调用而发生变化**。那么在遍历的时候的remove就需要对这个点进行复刻，而且如果在迭代器里使用了List原生的remove方法，那么就会引起数值不同步的问题。
+
+在`ArrayList`集合的`iterator()`方法中，是通过返回`Itr`对象来获得迭代器的。`Itr`是`ArrayList`的一个内部类，它实现了`Iterator`接口，*代码如下：*
+
+```java
+   private class Itr implements Iterator<E> {
+        int cursor;       // index of next element to return
+        int lastRet = -1; // index of last element returned; -1 if no such
+        int expectedModCount = modCount;
+
+        Itr() {}
+
+        public boolean hasNext() {
+            return cursor != size;
+        }
+
+        @SuppressWarnings("unchecked")
+        public E next() {
+            checkForComodification();
+            int i = cursor;
+            if (i >= size)
+                throw new NoSuchElementException();
+            Object[] elementData = ArrayList.this.elementData;
+            if (i >= elementData.length)
+                throw new ConcurrentModificationException();
+            cursor = i + 1;
+            return (E) elementData[lastRet = i];
+        }
+
+        public void remove() {
+            if (lastRet < 0)
+                throw new IllegalStateException();
+            checkForComodification();
+
+            try {
+                ArrayList.this.remove(lastRet);
+                cursor = lastRet;
+                lastRet = -1;
+                expectedModCount = modCount;
+            } catch (IndexOutOfBoundsException ex) {
+                throw new ConcurrentModificationException();
+            }
+        }
+```
+
+注意以下的三个属性：
+
+| cursor           | 索引下标，表示下一个可以访问的元素的索引，默认值为 0 |
+| ---------------- | ---------------------------------------------------- |
+| lastRet          | 索引下标，表示上一个元素的索引，默认值为 **-1**      |
+| expectedModCount | 对集合修改的次数，初始值为 **0**                     |
+
+我们知道：**List的add和remove调用会增加modCount的值。**也就是这两个操作会被计入对集合的修改次数。
+
+在迭代器的源码中，有一个方法是用来判断 modCount 和 expectModCount 的值是否相等的，其中modCount的值来自List，expectModCount 是迭代器内定义的变量。那为什么要这么设计呢？
+
+==因为arraylist是线程不安全的。==
+
+结合iterrator的next方法，我们可以看到，**如果没有这个校验**，**某个线程删除了list的一个元素，此时next方法不知道size变更了，依然去取数组里的数据，会导致数据为null或ArrayIndexOutOfBoundsException异常等问题。**
+
+>  ConcurrentModificationException发生在Iterator( )和next( )方法实现中，每次调用都会检查容器的结构是否发生变化，目的是为了避免共享资源而引发的潜在问题。
+>
+>  观察HashMap和ArrayList底层Iterator#next(), 可以看到fast-fail只会增加或者删除（非Iterator#remove()）抛出异常；改变容器中元素的内容不存在这个问题（主要是modCount没发生变化）。
+>
+>  在单线程中使用迭代器，对非线程安全的容器，但是只能用Iterator和remove；否则会抛出异常。
+>
+>  在多线程中使用迭代器，可以使用线程安全的容器来避免异常。
+>
+>  使用普通的for循环遍历，效率虽然比较低下，但是不存在ConcurrentModificationException异常问题，用的也比较少。
+
+所以说如果在使用迭代器的时候，用到了List自带的remove方法，那么modCount改变了，但是迭代器内定义的变量expectedCount却没有改变，这样就会被抛出异常。
+
+综上：我们在使用迭代器的时候，不要混用List本身的remove方法。
+
+> Iterator接口有四个方法，hasNext、next、remove和forEachRemaining
+>
+> **其中forEachRemaining是java1.8新增的**
+>
+> 这个方法是针对集合中剩余元素的操作
+>
+> 剩余的含义是没有被iterator.next()遍历过的元素
+
+----
+
+## 1.3、为什么迭代器在调用remove之前要先调用next
+
+当使用Iterator迭代访问Collection集合元素时，Collection集合里的元素不能被改变，**只有通过Iterator的remove()方法删除上一次next()方法返回的集合元素才可以**；否则会引发java.util.ConcurrentModificationException异常。
+
+查看next方法的源码可以看到 `return (E) elementData[lastRet = i];`这样一行代码，这行代码表示next方法在让数组下标cursor向后移动一位的同时，还会把lastRet的值变成当前返回的元素下标，这样remove方法就可以根据这个下标完成对元素的删除。]]></description></item><item><title>【已解决】wordpress 修改固定链接 伪静态URL出现nginx 404错误</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/07/16667610.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Wed, 07 Sep 2022 14:49:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/07/16667610.html</guid><description><![CDATA[<h1>一、站点设置</h1>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907222533810-1887068523.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p><strong>打开站点设置，选择伪静态，选择wordpress</strong></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907222620926-432976683.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<h1>&nbsp;二、wordpress设置</h1>
+<p>打开wordpress后台，选择<strong>设置 ---》固定链接</strong></p>
+<p><strong><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223026389-2082424293.png" alt="" loading="lazy" /></strong></p>
+<p>&nbsp;</p>
+<p>选择一个你喜欢的格式点击保存</p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223102055-1412414145.png" alt="" loading="lazy" /></p>
+<p>之后打开你的文章就可以看到这样的链接格式：</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223233265-2040435099.png" alt="" loading="lazy" /></p>
+<p><a href="https://www.reliableyang.cn/778.html" target="_blank">https://www.reliableyang.cn/778.html</a></p>
+<p>&nbsp;</p>
+<p><strong>如果发现出现了404，那可以尝试下面这个方法：</strong></p>
+<h1>方法2&nbsp;直接修改nginx配置文件</h1>
+<p>在如图所示的位置插入下面的代码：注意要放在最后一个花括号里面</p>
+<div class="cnblogs_code">
+<pre>1      location /<span> {
+2     try_files $uri $uri/ /index.php?$args<span>;
+3 <span>}
+4  
+5     # Add trailing slash to */wp-admin requests.
+6     rewrite /wp-admin$ $scheme://$host$uri/ permanent;</span></span></span></pre>
+</div>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223433149-1137804618.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>]]></description></item><item><title>wordpress固定链接+宝塔nginx配置伪静态访问URL</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/07/16667547.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Wed, 07 Sep 2022 14:37:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/07/16667547.html</guid><description><![CDATA[<h1>一、站点设置</h1>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907222533810-1887068523.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<p><strong><span style="font-size: 18px;">打开站点设置，选择伪静态，选择wordpress</span></strong></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907222620926-432976683.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<h1>&nbsp;二、wordpress设置</h1>
+<p><span style="font-size: 18px;">打开wordpress后台，选择<strong>设置 ---》固定链接</strong></span></p>
+<p><strong><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223026389-2082424293.png" alt="" loading="lazy" /></strong></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;">选择一个你喜欢的格式点击保存</span></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223102055-1412414145.png" alt="" loading="lazy" /></p>
+<p>之后打开你的文章就可以看到这样的链接格式：</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223233265-2040435099.png" alt="" loading="lazy" /></p>
+<p><a onclick="window.open('https://www.reliableyang.cn/778.html','','');return false;" href="https://www.reliableyang.cn/778.html" target="_blank">https://www.reliableyang.cn/778.html</a></p>
+<p>&nbsp;</p>
+<p><strong>如果发现出现了404，那可以尝试下面这个方法：</strong></p>
+<h1>方法2&nbsp;直接修改nginx配置文件</h1>
+<p>在如图所示的位置插入下面的代码：注意要放在最后一个花括号里面</p>
+<div class="cnblogs_code">
+<pre><span style="font-size: 16px;"><span style="color: #008080;">1</span>      location /<span style="color: #000000;"> {
+</span><span style="color: #008080;">2</span>     try_files <span style="color: #800080;">$uri</span> <span style="color: #800080;">$uri</span>/ /index.php?<span style="color: #800080;">$args</span><span style="color: #000000;">;
+</span><span style="color: #008080;">3</span> <span style="color: #000000;">}
+</span><span style="color: #008080;">4</span>  
+<span style="color: #008080;">5</span>     <span style="color: #008000;">#</span><span style="color: #008000;"> Add trailing slash to */wp-admin requests.</span>
+<span style="color: #008080;">6</span>     rewrite /wp-admin$ <span style="color: #800080;">$scheme</span>:<span style="color: #008000;">//</span><span style="color: #008000;">$host$uri/ permanent;</span></span></pre>
+</div>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220907223433149-1137804618.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>]]></description></item><item><title>Unit 1 Computer hardware【石家庄铁道大学-专业英语课 】</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/06/16663185.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Tue, 06 Sep 2022 12:12:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/06/16663185.html</guid><description><![CDATA[# Unit 1 Computer hardware
+
+## 1、Introduction of computer
+
+A computer is a machine that can be **instructed** to carry out sequences of **arithmetic** or logical operations automatically via computer programming. Modern computers **have the ability** *to* **follow** generalized sets of operations, called programs. 
+
+> 计算机是指可以通过计算机编程自动执行算术或逻辑运算的机器。现代计算机能够遵循被称为程序的通用操作集。
+>
+> 1. sequence  [ˈsiːkwəns]  序列;顺序;、
+> 2. arithmetic  [əˈrɪθmətɪk] 
+
+These programs enable computers to perform an extremely wide range of **tasks**. A “complete” computer including the hardware, the operating system, and **peripheral** equipment required and used for “full” operation can **be referred to** as a computer system. 
+
+> 这些程序使计算机能够执行极其广泛的任务。
+>
+> “完整”的计算机包括硬件、操作系统和外围设备，它们可以满足计算机系统所需的“全部”操作。该计算机可以称为一个计算机系统。
+>
+> 1. peripheral  [pəˈrɪfərəl]  外围设备;周边设备
+
+This term may as well be used for a group of computers that are connected and work together, in particular a computer network or computer cluster.
+
+> 该术语也可以用于连接在一起的一组计算机，特别是计算机网络或计算机集群。     
+
+ **Conventionally**, a modern computer **consists of** at least one processing element, typically a central processing unit (CPU), and some form of memory. The processing element carries out arithmetic and logical operations, and a sequencing and control unit can change the order of operations **in response to** stored information. 
+
+> 传统上，现代计算机至少包括一个处理元件（通常是中央处理单元）和某种形式的存储器。
+>
+> 处理元件执行算术和逻辑运算，并且排序和控制单元可以响应存储的信息来改变操作的顺序。
+>
+> 1. Convention  [kənˈvenʃn]  习俗;常规;惯例;
+> 2. in response to 作为回应;响应；回答；对…有反应
+
+Peripheral devices include input devices (keyboards, mouse, **etc**.), output devices (monitor screens, printers, etc.). Peripheral devices allow information to **be retrieved from** an **external** source and they enable the result of operations to be saved and retrieved. 
+
+> 外围设备包括输入设备（键盘、鼠标等）、输出设备（监视器屏幕、打印机等）。
+>
+> 外围设备允许从外部源获得信息，并且使操作结果得以保存和访问。
+>
+> 1. retrieve  [rɪˈtriːv]   检索;取回;
+> 2. external   [ɪkˈstɜːrnl]
+
+## 2、Computer Hardware
+
+The term hardware covers all of those parts of a computer that are **tangible** physical objects. circuits, **computer chips, graphic cards, sound cards, memory (RAM), motherboards, displays, power supplies, cables**, keyboards, printers and mouse are all hardware.  
+
+> 术语“硬件”涵盖计算机中全部有形物理部件。
+>
+> 电路、计算机芯片、图形卡、声卡、存储器（RAM）、主板、显示器、电源、电缆、键盘、打印机和“鼠标”输入设备都是硬件。
+>
+> 1. tangible   [ˈtændʒəbl] 有形的;实际的;真实的
+> 2. circuits    [ˈsɜːrkɪts]  电路
+> 3. cable   [ˈkeɪbl]  电缆
+
+A general purpose computer has four main components: the arithmetic and logic unit (ALU), the control unit, the memory, and the input and output devices (**collectively termed** I/O). These parts are interconnected by **buses**, often made of groups of wires. Inside each of these parts are thousands to trillions of small **electrical** **circuits** which can be turned off or on by means of an **electronic** **switch**. 
+
+> **译文：**通用计算机具有四个主要部件：算术逻辑单元（ALU）、控制单元、存储器以及输入和输出设备（统称为I / O）。这些部件通过总线互连，总线通常由电线组成。这些部件中的每一个都是数千到数万亿的小电路，可以通过电子开关关闭或打开。
+>
+> 1. buses 总线
+> 2. circuits   [ˈsɜːrkɪts]  电路
+
+Each circuit represents a bit (**binary digit**) of information so that when the circuit is on it represents a “1”，and when off it represents a “0”. The circuits are arranged in **logic gates** so that one or more of the circuits may control the state of one or more of the other circuits. 
+
+> **译文：**每个电路表示一位（二进制数字）信息，所以当电路接通时它表示“1”，而当断开时它表示“0”。
+>
+> 电路布置在逻辑门中，这样一个或多个电路可以控制一个或多个其他电路的状态。
+>
+> 1. digit 数字
+
+### 2.1、Input devices
+
+ When **unprocessed** data is sent to the computer **with the help of** input devices, the data is processed and sent to output devices. The input devices may be **hand-operated** or **automated**. The act of processing is mainly **regulate**d by the CPU. 
+
+> **译文：**输入设备将未处理的数据发送到计算机时，数据将被处理并发送到输出设备。
+>
+> 输入设备既可以手动操作，也可以自动操作。处理行为主要由CPU控制。
+
+Some examples of input devices are computer keyboard, digital camera, digital video, **graphics tablet**, image scanner, microphone, mouse, touch screen. 
+
+> **译文：**输入设备的一些示例是：计算机键盘、数码相机、数码视频、图形输入板、图像扫描仪、麦克风、鼠标、触摸屏。
+>
+> 1. tablet    [ˈtæblət]    板子 药片;
+
+###  2.2、Output devices
+
+ **The means through which computer gives output** are known as output devices. Some examples of output devices are **computer monitor, printer, PC speaker, sound card, video card**.
+
+> **译文：**计算机提供输出的设备称为输出设备。
+>
+> 输出设备的示例有计算机监视器、打印机、PC扬声器、声卡、视频卡。
+
+###  2.3、Control unit
+
+The **control unit** (often called a **control system** or **central controller**) manages the computer's various components; it reads and **interprets** (decodes) the program instructions, transforming them into control signals that **activate** other parts of the computer. 
+
+> **译文：**控制单元（通常称为控制系统或中央控制器）管理计算机的各种组件；它读取并解释（解码）程序指令，将它们转换为激活计算机其他部分的控制信号。
+>
+> 1. interprets   [ɪnˈtɜːrprəts]
+
+  A key component common to all CPUs is the **program counter**, a special memory cell (a **register**) that **keeps track of** which location in memory the next instruction is to be read from.
+
+> **译文：**所有CPU共有的关键组件是程序计数器，它是一个特殊的存储单元（寄存器）用于跟踪存储器中下一条指令的读取位置。
+>
+> 1. register   [ˈredʒɪstər]
+
+### 2.4、**CPU and ALU**
+
+**The control unit, ALU, and registers are collectively known as** **a central processing unit (CPU).** Early CPUs were composed of many separate components but since the mid-1970s CPUs have typically been constructed on a single **integrated circuit** called a **microprocessor**.
+
+> **译文：**控制单元，ALU和寄存器统称为中央处理器（CPU）。
+>
+> 早期的CPU由许多独立的组件组成，但自20世纪70年代中期以来，CPU通常构建在称为微处理器的单个集成电路上。
+
+  **The ALU is capable of performing two classes of operations: arithmetic and logic**. The set of arithmetic operations that a particular ALU supports may be limited to addition and subtraction, or might include multiplication, division, **trigonometric** **functions** such as **sine**, **cosine**, etc., and **square roots**. 
+
+> **译文：**ALU能够执行两类操作：算术和逻辑。
+>
+> 特定ALU支持的算术运算集可以限于加法和减法，或者可以包括乘法、除法、三角函数（例如正弦，余弦等）以及平方根。
+>
+> 1. trigonometry    [ˌtrɪɡəˈnɑːmətri]    三角学
+
+### 2.5、Memory
+
+  A computer's memory can **be viewed as** a list of cells into which numbers can be placed or read. Each cell has a **numbered “address”** and can store a single number. The information stored in memory may represent practically anything.
+
+> **译文：**计算机的存储器可被视为能够放置或读取数字的单元组。每个单元格都有一个编号“地址”，可以存储一个数字。存储在存储器中的信息实际上可以代表任何东西。
+
+Letters, numbers, even computer instructions can be placed into memory **with equal ease**. Since the CPU does not **differentiate** between different types of information, it is the software's **responsibility** to give **significance** to what the memory sees as **nothing but** a series of numbers.
+
+> **译文：**字母、数字甚至计算机指令都可以同样轻松地放入存储器中。由于CPU不区分不同类型的信息，因此软件负责解释内存中信息的意义，但对存储器来说，这些信息只不过是一系列数字。
+>
+> 1. with equal ease   同样轻松
+> 2. differentiate   [ˌdɪfəˈrenʃieɪt]    区分;区别;辨别
+
+  In almost all modern computers, each memory cell is set up to store binary numbers **in groups of** eight bits (called a **byte**). Each byte **is able to represent** 256 different numbers (28=256); **either** from 0 to 255 **or** -128 to +127. 
+
+> **译文：**在几乎所有现代计算机中，每个存储器单元被设置为以八位组（称为字节）存储二进制数。每个字节能够代表256个不同的数字（28 = 256）；从0到255或-128到+127。
+>
+> 1. minus   [ˈmaɪnəs]    负号 零下 减去
+
+  To store larger numbers, several **consecutive** bytes may be used (typically, two, four or eight). When negative numbers are required, they are usually stored in **two's complement notation**. A computer can store any kind of information in memory if it can be represented numerically.
+
+> **译文：**为了存储更大的数字，可以使用几个连续的字节（通常是两个、四个或八个）。当需要负数时，它们通常以二进制补码表示。只要能表示为数字，计算机就能将任何类型的信息存储在存储器中。
+>
+> 1. consecutive    [kənˈsekjətɪv]    连续的;连续不断的
+> 2. two's complement notation  二进制补码  【补足；符号】
+
+  The CPU contains a special set of memory cells called **registers** that can be read and written to much more rapidly than **the main memory area**. There are typically between two and one hundred registers depending on the type of CPU. 
+
+> **译文：**CPU包含一组称为寄存器的特殊存储器单元，在此读取和写入速度比在主存储器更快。根据CPU的类型，通常有两到一百个寄存器。
+
+Computer main memory comes in two principal varieties:
+
+random-access memory (RAM).
+
+read-only memory (ROM).
+
+> **译文：**计算机主存有两种主要类型：
+>
+> 随机存取存储器或RAM
+>
+> 只读存储器或ROM
+
+  RAM can be read and written to anytime the CPU commands it, but ROM is **preload**ed with data and software that never changes, therefore the CPU can only read from it. ROM is typically used to store the computer's **initial start-up instructions.**
+
+> **译文：**CPU可以在任何时候读取和写入RAM，但因为ROM预装了永不改变的数据和软件，所以CPU只能读取它。ROM通常用于存储计算机的初始启动指令。
+
+### 2.6、**Multiprocessing**
+
+ Some computers are designed to **distribute** their work across several CPUs in a multiprocessing **configuration**, a technique once **employ**ed only in large and powerful machines such as **supercomputers**, **mainframe computers** and servers. **Multiprocessor** and **multi-core** (multiple CPUs on a single integrated circuit) **personal and laptop computers** are now widely available.
+
+> **译文：**一些计算机被设计为具有多处理配置，它能将其工作分布在多个CPU上，这种技术曾经只用于超级计算机、大型计算机和服务器等功能强大的机器。多处理器和多核（单个集成电路上的多个CPU）个人和便携式计算机现在广泛使用。
+
+## 3、Unite 1  Exercise
+
+1. **计算机硬件 Computer hardware**
+2. **操作系统 operating system**
+3. **外设 peripheral devices**
+4. **微处理器 microprocessor**
+5. **寄存器 registers**
+6. **算数的 Arithmetic**
+7. **逻辑的 logic** 
+8. **集成电路 integrated circuit**
+9. **控制器 controller** 
+10. **声卡 sound card**
+11. **显卡 Graphics card**
+12. **主板 motherboard** 
+13. **打印机 printer** 
+14. **多处理器 multiprocessor**
+15. 多核  multi-core 
+16. CPU central processing unit
+17. 显示器 displays
+18. 电源 power supplies
+19. 扬声器 PC speaker
+20. ALU Arithmetic Logical Unit 算术逻辑部件运算器
+21. 加减乘除 addition   subtraction  multiplication  division
+22. RAM  random-access memory
+23. ROM  read-only memory
+24. supercomputers  mainframe computers 超级计算机 大型计算机 large and powerful machines
+]]></description></item><item><title>吴军《浪潮之巅》阅读随笔（二）信息产业的规律性</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/05/16656714.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 04 Sep 2022 17:44:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/05/16656714.html</guid><description><![CDATA[在这本书上册的最后一章《信息产业的规律性》中，有几个问题让我很感兴趣。
+
+# **1、70-20-10 律**
+
+在信息科技某个领域发展成熟之后，一般在全球容不下三个以上的主要竞争者，这个行业一定有一个老大、是这个行业的主导者。但是他一定会遇到一两个主要的竞争者，其余的是一大群小商家。**老大是主导者，占据着一半以上，通常是百分之六七十的市场，并且制定并解释了这个领域的游戏规则。**老二、老三有自己稳定的百分之二三十的市场份额，有时老二老三会挑战老大，但是总的来说还是受老大欺负的时候多，其余的小商家占很小的市场，对老大马首是瞻，老大老二不太在意这些小商家，这就给了他们有挣小钱的机会。**老大密切关注老二，防止老二做大。**这样一来，老大70，老二20，其余10，在信息产业领域大抵如此。
+
+> 个人电脑领域：微软老大，苹果老二
+>
+> 个人电脑处理器领域：英特尔老大，AMD老二
+>
+> 全球网络设备领域：华为老大、思科老二
+>
+> 互联网领域：谷歌老大、Meta【Facebook】老二
+>
+> IT服务领域：IBM老大，甲骨文和惠普是老二老三
+>
+> （书里是这么举例的，这个排名要结合作者成书的年代背景，仅供参考）
+
+# **2、为什么信息产业领域的公司比传统工业的公司更容易形成主导优势呢？**
+
+比如传统工业里，石油领域，尽管埃克森美孚的营业额和市值都很高，但是市场份额却远远占不到百分之六七十，Shell石油、英国石油【BP】都可以与之分庭抗礼。再比如汽车工业里，不管是通用还是丰田，都没能像信息领域中的公司占到这么高的市场份额，其他的诸如金融、医疗、零售都达不到信息领域的程度。作者大概从这几个角度做了分析：
+
+- 传统行业研发成本低，但是制造和销售成本高，所以**研发成本可以通过规模经济来抵消，但是制造成本不可以。**而信息产业的某些产品的制造成品是很低的，比如对于甲骨文公司来说知道一个软件和拷贝一万份其实成本并不是很高。
+- 信息产品生态链耦合度高。比如一旦某个操作系统开始领先，那随之而来的一系列配套软硬件都会出现，这使得其他竞争者很难取胜。但是传统工业的生态链耦合度就没有这么高，比如你这一次买了通用的车，下一次可能就想买福特了。
+- 不同用户对于不同的传统工业产品，用户的品位不同，对性能的要求也不同，所以很难出现某一款牙膏席卷全球，达到百分之六七十的市场份额占比，这是很难很难的。但是对于信息产品，好就好，不好就是不好，从价格和功能上看都是硬性的，所以用户在选择科技产品的时候的想法会和选择传统工业产品时有所不同。
+
+# **3、诺威格定律**
+
+> 一家公司的市场占有率超过百分之50之后，就无法再翻番了。
+
+简单理解就是**当你走到了最高点的时候，不管你再往哪个方向走，那一定是下坡路。**
+
+==这个定律决定了一个在市场占主导地位的公司必须不断开拓新的财源，才能尽可能做到长盛不衰。==
+
+有两种方式可以做到开疆扩土，
+
+**一是扩展**，即把公司现有的技术和商业优势横向扩展到相关市场。
+
+**二是转型**，这就比较难了，而且风险非常大。
+
+------------
+
+**书里有一段话写的非常好，就引来做一个小结吧。**
+
+> 科学技术无疑是我们这个时代推动社会前进的主要动力。一次次技术革命的浪潮造就出浪尖上的成功者，淘汰掉赶不上大潮的失败者。当一些人还在为那些伟大的公司的消亡感到可惜的时候，我想说的是，**任何过气的公司退出历史舞台，是它们对世界做的最后一次贡献**，唯有如此，才会有更多的资源分配给新的公司、新的行业。
+
+
+一点补充：
+
+1、科研必须与产品相结合。
+
+2、**摩尔定律**：每18个月，计算机等IT产品的价格就会下降一半，或者说他们的性能会翻一番。
+
+3、**安迪-比尔定律**【英特尔的安迪·格鲁夫和微软的比尔·盖茨】：简单来说就是硬件虽然在摩尔定律的影响下会降价，但是用户还是不得不更换自己的设备，因为新出现的软件会吃掉硬件性能提升带来的红利，让我们不得不买新的硬件来支撑现有的软件，就比方说用十几年前的手机打王者可能游戏体验就极度一般了，甚至可能是完全带不动。
+
+4、**反摩尔定律**：一个IT公司如果今天和18月前卖掉同样多的、同样的产品，那它的营业额要降一半。这逼着所有的硬件设备公司必须要跟上摩尔定律规定的更新速度才可以实现盈利。
+
+5、成功的关键不在于做对了多少事，而在于少犯了多少错误。【巴菲特】
+
+6、**什么是一个IT员工最看重的**？一个技术人员是否愿意为自己的公司尽全力，很大程度上取决于他是否得到了重视。重视一方面体现在收入，另一方面体现在他在公司有多少发言权。
+
+7、如果羡慕成功者的富贵，请别一味模仿他们富贵后的事，那些名牌表呀包呀酒呀车呀，都是他们富贵后的事，硬撑着模仿了，也只能图个穷开心而已。要模仿，就模仿他们富贵前的事，他们那鹰般的探查、蛇般的专注、蚁般的搜括、蛹般的耐心，全是些风吹日晒、灰头土脸的事啊。
+
+8、**硅谷对叛逆者的宽容和正确引导与帮助**：硅谷的叛逆者们所做的是有节制的颠覆行为，他们更多地显示出建设而不是破坏的特点。
+
+9、宽容叛逆者，引导他们成为建设者。
+
+10、凡是现实的都是合理的；凡是合理的都是现实的。【黑格尔】任何事情都有它发生、存在和发展的理由，当然如果这个理由不成立了，它终究会消亡。【恩格斯】
+]]></description></item><item><title>windows系统cmd切换盘符路径命令失效</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656557.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 04 Sep 2022 15:45:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656557.html</guid><description><![CDATA[<p><span style="font-size: 18px;"><strong>问题描述：比如当我在C盘想切换到D盘的某个文件夹路径下时</strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;">&nbsp;</span></p>
+<p><span style="font-size: 18px;"><strong>只是输出了那个路径 但是并没有真的切换</strong></span></p>
+<p>&nbsp;</p>
+<p>这时候需要再多操作一步就会成功了</p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220904234445320-658101968.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>]]></description></item><item><title>windows系统命令行cmd查看显卡驱动版本号CUDA</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656547.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 04 Sep 2022 15:41:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656547.html</guid><description><![CDATA[<p><span style="font-size: 16px;">Win+R&nbsp;输入cmd 进入命令行</span></p>
+<p><span style="font-size: 18px;"><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220904234043466-1800098147.png" alt="" loading="lazy" /></span></p>
+<p><span style="font-size: 18px;"><span style="font-size: 16px;">输入 nvidia-smi</span></span></p>
+<p><span style="font-size: 18px;"><span style="font-size: 16px;"><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220904234122428-1646888244.png" alt="" loading="lazy" /></span></span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;"><span style="font-size: 16px;"></span></span></p>
+<p>&nbsp;</p>]]></description></item><item><title>windows系统python3.6（Anaconda3）安装对应版本 torch、torchvision </title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656531.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Sun, 04 Sep 2022 15:38:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/04/16656531.html</guid><description><![CDATA[<h1>一、官网下载 .whl 文件</h1>
+<p><span style="font-size: 18px;">https://download.pytorch.org/whl/torch_stable.html</span></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220904233107721-1902220118.png" alt="" loading="lazy" /></p>
+<h1>&nbsp;二、使用pip命令安装</h1>
+<p>打开你的anaconda，选择对应虚拟环境终端，进入刚才下载 .whl&nbsp;文件的目录下，输入以下命令：</p>
+<p>install&nbsp;后面的就是你的文件名，出现successful就是成功了。</p>
+<p><span style="font-size: 18px;">pip install torch-1.4.0+cpu-cp36-cp36m-win_amd64.whl</span></p>
+<p>&nbsp;</p>
+<p><img src="https://img2022.cnblogs.com/blog/2090080/202209/2090080-20220904233258161-1898000931.png" alt="" loading="lazy" /></p>
+<p>&nbsp;</p>
+<h1>三、安装torchvision&nbsp;</h1>
+<p>输入命令</p>
+<p><span style="font-size: 18px;">pip install torchvision -i https://pypi.doubanio.com/simple</span></p>
+<p>&nbsp;</p>]]></description></item><item><title>吴军《浪潮之巅》阅读随笔（一）</title><link>http://www.cnblogs.com/rainbow-1/archive/2022/09/03/16651778.html</link><dc:creator>靠谱杨</dc:creator><author>靠谱杨</author><pubDate>Fri, 02 Sep 2022 16:30:00 GMT</pubDate><guid>http://www.cnblogs.com/rainbow-1/archive/2022/09/03/16651778.html</guid><description><![CDATA[​		大概用了半个月的时间，中间断断续续的吧，在今天读完了吴军老师《浪潮之巅》上册的内容。这本书带给我的感触很多，下面我简单的做个记录和大家分享。
+
+------
+
+​		从整体上看，这本书着眼于硅谷的发展，比较细致地介绍了硅谷一些知名IT企业的兴衰起伏。给我的感觉像是给每个企业写了一个传记，这貌似是一本讲述硅谷科技史的书。但是往深了去想，它又带给我很多除了历史知识之外的收获。
+
+----
+
+​		题外话：我为什么会读到这本书？
+
+​		这应该是两年前的事了，我清楚地记得有一节课，系主任无意中提到了这本书的名字，而且大概提了一下书的内容。我本身就对历史比较感兴趣，这本书又在历史的基础上和我的专业做了融合，让我印象深刻。所以我记住了这本书的名字，但是后来因为种种吧，就没有然后了 :(
+
+-----
+
+​		下面直奔主题，记录一下让我感触很深的叙述和我的一些想法。
+
+​		我打算从两个角度展开：
+
+​		**一、什么是浪潮，或者说是什么在推动着浪潮的前进？**
+
+​		**二、一个公司需要具备哪些要素才有可能站在浪潮之巅？**
+
+​		从这本书，我深刻地感受到了时代的力量，一个个企业的兴盛和衰落都或多或少的受到了时代大潮的影响。
+
+到底是时代造就了企业还是企业引领的时代呢？我觉得用影视剧三国演义里刘备的一句话也许可以比较好地回答：**时势造英雄，英雄亦适时也！**
+
+
+
+​		首先从第一个角度切入，在我看来**推动浪潮翻涌向前的也许是人类的需求，有了无穷无尽的需求才有了源源不断的动力。**就比如当人们迫切的需要更加方便的远程交流的时候，电话出现了，以及这个时代的代表，AT&T公司。
+
+​		书里面大概提到了这几个浪潮（可能不是很准确），机械革命浪潮【这作为一个背景被提及】、电子技术革命浪潮【IBM商化推广电子计算机】、全球信息化浪潮【个人计算机（英特尔和微软）和通信等移动设备】、互联网浪潮、云计算和云服务浪潮
+
+​		每一个浪潮都会涌现一批非常有代表性的巨头企业，比如电子技术革命浪潮下的IBM、全球信息化浪潮下的苹果，微软和英特尔、互联网浪潮下的雅虎和谷歌等等。同时当浪潮交替的时候，就会有一批曾经十分耀眼的企业被新的浪潮击垮甚至是淹没。比如雅虎是确定互联网行业商业模式的公司，并且是主流免费门户网站的真正代表。但是当它对于互联网的使命完成的时候，也就退出历史舞台了。
+
+------
+
+​		其次谈一下第二个角度，对于一个站在浪潮之巅的企业，有哪些要素是吴军老师想要表达的呢？
+
+​		1、敏锐的判断和大胆的尝试。
+
+​		对于一个企业来说，**想要很好地迎接甚至推动浪潮首先要找准浪潮，否则可能会力不从心。**如果苹果当年没有敏锐地捕获到个人电脑浪潮即将来临，或者说即使已经知道了却没有果断出击，那么都不会有今天的苹果帝国。
+
+​		2、把握技术核心和主营业务
+
+​		我觉得一个大企业一定要在时代大潮中找到属于自己的主营业务并且要注重技术，这样才能在潮起潮落中站得住脚。像微软牢牢地守住个人计算机领域和操作系统技术，英特尔的中央处理器，IBM死死守住在政府、军队和企事业部门的市场，甲骨文死守企业级软件服务市场等等。
+
+​		**一个公司不宜把自己的产品线拉的过长，要懂得根据时代情况来大胆取舍，要有核心技术和核心业务。**比如雅虎公司后期因为没有在技术上进行突破所以被后来的谷歌搜索引擎打败，甚至当时很多人感觉雅虎像是一个媒体公司，这些时代印象也许注定了雅虎不会走的太远。
+
+​		一些公司感觉什么都做了，但是又什么都没做好，雨露均沾也许并不是什么好事。比如太阳公司被甲骨文收购之后，甲骨文的埃里森指出太阳应该停止那些毫无前途的项目。
+
+​		3、关心盈利，随时调整商业模式
+
+​		作为一个企业，盈利是一定要保证的，否则一定不会长久。所以**必须找到可以让技术变现的商业模式**，微软在这方面做的就很好，比如操作系统和浏览器捆绑销售打败了网景，但是像太阳公司就始终没有找到很好的让Java语言变现的道路。
+
+​		4、重视用户，重视需求
+
+​		不管是做什么产品，都需要有人用，人们喜欢用才能体现出价值。如果过多的看重技术而忽视用户，也可能会导致失败。比如摩托罗拉看不起三星和诺基亚不重视技术而只在外形和功能上搞花架子的做法，但是最终却败在了这上面。时尚公司的典范苹果也告诉我们**重视用户体验**有多么重要。小米的雷军也曾提到他在零售行业看店的经历，这对以后小米手机的热销起到了非常大的帮助作用。
+
+​		5、企业凝聚力和管理者的才能
+
+​		这无疑是天时地利人和中非常重要的“人和”了，不管是什么样的企业，一定是需要人来参与的。作为企业的员工要有共同责任感，作为企业的管理者尤其是高层的管理者，一定要注重公司的管理。**拿破仑说过：一头狮子带领的一群羊，能打败一只羊带领的一群狮子。**]]></description></item></channel></rss>
