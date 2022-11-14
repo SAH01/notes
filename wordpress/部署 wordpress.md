@@ -70,7 +70,7 @@ $phpmailer->FromName = '靠谱杨'; // 发件人昵称
 $phpmailer->Host = 'smtp.163.com'; // 邮箱SMTP服务器
 $phpmailer->Port = 465; // SMTP端口，不需要改
 $phpmailer->Username = 'bitter_7@163.com'; // 邮箱账户
-$phpmailer->Password = 'JEXIHCTFNHRKMYWS'; // 此处填写邮箱生成的授权码，不是邮箱登录密码
+$phpmailer->Password = 'AQAVCMEMKAZCKVTX'; // 此处填写邮箱生成的授权码，不是邮箱登录密码
 $phpmailer->From = 'bitter_7@163.com'; // 邮箱账户同上
 $phpmailer->SMTPAuth = true;
 $phpmailer->SMTPSecure = 'ssl'; // 端口25时 留空，465时 ssl，不需要改
@@ -80,9 +80,11 @@ $phpmailer->IsSMTP();
 
 
 
-> **新主题评论通知网易密码**：WKAIIUGTMEZTYFZA
->
 > **outlook配置密码：** LJOSGGEXHJSQVWLA
+>
+> wordpress评论通知密码：AQAVCMEMKAZCKVTX
+>
+> 宝塔：QBJVDCRQNKTWFCLR
 
 
 
