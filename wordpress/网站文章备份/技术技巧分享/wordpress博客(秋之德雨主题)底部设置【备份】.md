@@ -1,0 +1,66 @@
+wordpress博客(秋之德雨主题)底部设置【备份】
+
+工信部备案号：冀ICP备2022016382号 | 
+
+公安备案号：冀公网安备 13048102000341号
+
+```html
+<a href="https://www.reliableyang.cn/yqz">友人帐</a> | 
+<a href="#">关于</a> | 
+<a href="https://www.reliableyang.cn/yszc">隐私政策</a> | 
+<span id="momk" style="color: #ff0000;font-size:14px"></span><br>
+```
+
+底部统计设置：
+
+```html
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"Jvn8nj7khRuvsbhf",ck:"Jvn8nj7khRuvsbhf"})</script>
+<script type="text/javascript">
+            function NewDate(str) {
+                str = str.split('-');
+                var date = new Date();
+                date.setUTCFullYear(str[0], str[1] - 1, str[2]);
+                date.setUTCHours(0, 0, 0, 0);
+                return date;
+            }
+            function momxc() {
+                var birthDay =NewDate("2022-07-14");
+                var today=new Date();
+                var timeold=today.getTime()-birthDay.getTime();
+                var sectimeold=timeold/1000
+                var secondsold=Math.floor(sectimeold);
+                var msPerDay=24*60*60*1000; var e_daysold=timeold/msPerDay;
+                var daysold=Math.floor(e_daysold);
+                var e_hrsold=(daysold-e_daysold)*-24;
+                var hrsold=Math.floor(e_hrsold);
+                var e_minsold=(hrsold-e_hrsold)*-60;
+                var minsold=Math.floor((hrsold-e_hrsold)*-60); var seconds=Math.floor((minsold-e_minsold)*-60).toString();
+                document.getElementById("momk").innerHTML = 
+                    "靠谱杨的小站已稳定运行："+"❤️"+daysold+"天"+hrsold+"小时"+
+                    minsold+"分"+seconds+"秒"+"❤️"          
+                    setTimeout(momxc, 1000);
+            }momxc();
+
+            </script>
+
+            <style>
+            #momk{animation:change 10s infinite;font-weight:800; }
+            @keyframes change{0%{color:#5cb85c;}25%{color:#556bd8;}50%{color:#e40707;}75%{color:#66e616;}100% {color:#67bd31;}}
+            </style>
+
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/Jvn8nj7khRuvsbhf/quote.js?theme=#1690FF,#236EE8,#EF4B4B,#E718E3,#FFFFFF,#1690FF,12&f=12"></script>
+```
+
+底部自定义文字：
+
+Tomorrow the birds will sing.
+
+二维码1：
+
+`https://www.reliableyang.cn/wpcontent/uploads/2023/04/eac473874f4ac5c9e03f49.jpg`
+
+二维码2：`https://www.reliableyang.cn/wpcontent/uploads/2023/01/qrcode_for_gh_b43a6022f2e4_258.jpg`
+
+----
+![image-20230405154213844](https://raw.githubusercontent.com/SAH01/wordpress-img/master/imgs/image-20230405154213844.png)
